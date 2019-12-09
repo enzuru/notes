@@ -2,3 +2,7 @@
 "index.org"
 ("2._Common_Lisp_REPL" nil nil eval-elisp ((progn (exwm-workspace-switch-create 2) (find-file "~/org/documentation/common-lisp.org") (require (quote enzuru-common-lisp)))) "enzuru@ibook.enzu.ru" "20191208:23:37:31" nil nil)
 ("1._Mail" nil nil eval-elisp ((progn (exwm-workspace-switch-create 1) (wl))) "enzuru@ibook.enzu.ru" "20191208:23:34:44" "enzuru" "20191208:23:37:55")
+"Google"
+("Google" nil nil eval-elisp ((start-process "google" "google" "urxvtc" "-e" "links" "https://www.google.com/")) "enzuru@ibook.enzu.ru" "20191208:08:49:51" nil nil)
+"htop"
+("htop" nil nil eval-elisp ((start-process "htop" "htop" "urxvtc" "-e" "htop")) "enzuru@ibook.enzu.ru" "20191208:08:49:51" nil nil)

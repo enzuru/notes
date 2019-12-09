@@ -4,3 +4,8 @@
 
 - # <(1. Mail)>
 - # <(2. Common Lisp REPL)>
+
+** Applications
+
+- # <(Google)>
+- # <(htop)>
