@@ -1,0 +1,4 @@
+* OpenBSD Release
+
+- # <(man)>
+- # <(faq)>

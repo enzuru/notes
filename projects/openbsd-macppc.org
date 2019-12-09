@@ -1,0 +1,5 @@
+* OpenBSD MacPPC
+
+** Links
+
+- # <(Initial plan of action)>
