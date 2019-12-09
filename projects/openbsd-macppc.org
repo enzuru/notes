@@ -1,5 +1,10 @@
 * OpenBSD MacPPC
 
+** Goals
+
+- cc: gcc to clang
+- ld: bfd to lld
+
 ** Links
 
 - # <(Initial plan of action)>

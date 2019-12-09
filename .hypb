@@ -1,5 +1,6 @@
 
 "index.org"
+("3._MacPPC" nil nil eval-elisp ((progn (exwm-workspace-switch-create 3) (find-file "~/org/machines/powerbook.org") (split-window-horizontally) (find-file "~/org/projects/openbsd-macppc.org"))) "enzuru@ibook.enzu.ru" "20191208:23:37:31" nil nil)
 ("2._Common_Lisp_REPL" nil nil eval-elisp ((progn (exwm-workspace-switch-create 2) (find-file "~/org/documentation/common-lisp.org") (require (quote enzuru-common-lisp)))) "enzuru@ibook.enzu.ru" "20191208:23:37:31" nil nil)
 ("1._Mail" nil nil eval-elisp ((progn (exwm-workspace-switch-create 1) (wl))) "enzuru@ibook.enzu.ru" "20191208:23:34:44" "enzuru" "20191208:23:37:55")
 "Google"

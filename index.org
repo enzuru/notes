@@ -4,6 +4,7 @@
 
 - # <(1. Mail)>
 - # <(2. Common Lisp REPL)>
+- # <(3. MacPPC)>
 
 ** Applications
 
