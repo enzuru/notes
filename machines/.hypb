@@ -1,4 +1,4 @@
 
 "powerbook.org"
 ("ssh" nil nil eval-elisp ((start-process "powerbook" "powerbook" "urxvtc" "-e" "ssh" "enzuru@192.168.1.23")) "enzuru@ibook.enzu.ru" "20191208:08:16:10" "enzuru" "20191208:23:55:42")
-("tramp" nil nil link-to-buffer-tmp (#("*tramp/scp enzuru@192.168.1.23*" 0 31 (face ivy-remote))) "enzuru@ibook.enzu.ru" "20191208:08:08:43" nil nil)
+("tramp" nil nil eval-elisp ((find-file "/scp:enzuru@192.168.1.23:/")) "enzuru@ibook.enzu.ru" "20191209:00:33:13" nil nil)
