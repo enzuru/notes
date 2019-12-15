@@ -1,5 +1,14 @@
 * Index
 
+** Todo
+
+*** DONE Identify Clang commits for AMD64
+    CLOSED: [2019-12-15 Sun 13:16]
+*** TODO Setup reliable IPs for boxes
+*** TODO Compile MacPPC kernel with Clang
+*** TODO Alert SLY about CLISP UTF-8 settings
+*** TODO Make Emacs TRAMP prompts more clear
+
 ** Workspaces
 
 - # <(1. Mail)>
