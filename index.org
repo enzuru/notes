@@ -8,6 +8,8 @@
 *** TODO Compile MacPPC kernel with Clang
 *** TODO Alert SLY about CLISP UTF-8 settings
 *** TODO Make Emacs TRAMP prompts more clear
+*** TODO Refactor shell scripts
+*** TODO Refactor .emacs.d with more comments, less packages, and a better README
 
 ** Workspaces
 
