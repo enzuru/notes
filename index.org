@@ -6,8 +6,8 @@
     CLOSED: [2019-12-15 Sun 13:16]
 *** DONE Setup reliable IPs and hostnames for boxes
     CLOSED: [2019-12-26 Thu 20:57]
+*** TODO Model finances in Common Lisp
 *** TODO Refactor shell scripts
-*** TODO Compile MacPPC kernel with Clang
 *** TODO Alert SLY about CLISP UTF-8 settings
 *** TODO Make Emacs TRAMP prompts more clear
 *** TODO Refactor .emacs.d with more comments, less packages, and a better README
@@ -15,8 +15,8 @@
 ** Workspaces
 
 - # <(1. Mail)>
-- # <(2. Common Lisp REPL)>
-- # <(3. MacPPC)>
+- # <(2. Emacs Lisp)>
+- # <(3. Common Lisp)>
 
 ** Applications
 
