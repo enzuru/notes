@@ -2,7 +2,7 @@
 "index.org"
 ("2._Emacs_Lisp" nil nil eval-elisp ((progn (exwm-workspace-switch-create 2) (find-file "~/.emacs.d/init.el") (magit-status))) "enzuru@ibook.enzu.ru" "20191208:23:37:31" nil nil)
 ("3._MacPPC" nil nil eval-elisp ((progn (exwm-workspace-switch-create 3) (find-file "~/org/machines/powerbook.org") (split-window-horizontally) (find-file "~/org/projects/openbsd-macppc.org"))) "enzuru@ibook.enzu.ru" "20191208:23:37:31" nil nil)
-("3._Common_Lisp" nil nil eval-elisp ((progn (exwm-workspace-switch-create 3) (find-file "~/org/documentation/common-lisp.org") (require (quote enzuru-common-lisp)))) "enzuru@ibook.enzu.ru" "20191208:23:37:31" nil nil)
+("3._Common_Lisp" nil nil eval-elisp ((progn (exwm-workspace-switch-create 3) (find-file "~/org/documentation/common-lisp.org") (sly))) "enzuru@ibook.enzu.ru" "20191208:23:37:31" nil nil)
 ("1._Mail" nil nil eval-elisp ((progn (exwm-workspace-switch-create 1) (wl))) "enzuru@ibook.enzu.ru" "20191208:23:34:44" "enzuru" "20191208:23:37:55")
 "Google"
 ("Google" nil nil eval-elisp ((start-process "google" "google" "urxvtc" "-e" "links" "https://www.google.com/")) "enzuru@ibook.enzu.ru" "20191208:08:49:51" nil nil)
