@@ -9,6 +9,7 @@
 *** DONE Alert SLY about CLISP UTF-8 settings
     CLOSED: [2020-02-11 Tue 23:43]
 *** TODO Model finances in Common Lisp
+*** TODO Build CI pipelines for CLISP
 
 ** Later
 
