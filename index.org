@@ -8,14 +8,17 @@
     CLOSED: [2019-12-26 Thu 20:57]
 *** DONE Alert SLY about CLISP UTF-8 settings
     CLOSED: [2020-02-11 Tue 23:43]
+*** DONE Build CI pipelines for CLISP
+    CLOSED: [2020-03-23 Mon 14:59]
 *** TODO Model finances in Common Lisp
-*** TODO Build CI pipelines for CLISP
+*** TODO [[./projects/gitlab-squash.org]]
 
 ** Later
 
+*** TODO Write Hyperbole blog
 *** TODO Refactor shell scripts
-*** TODO Make Emacs TRAMP prompts more clear
 *** TODO Refactor .emacs.d with more comments, less packages, and a better README
+*** TODO Make Emacs TRAMP prompts more clear
 
 ** Workspaces
 
