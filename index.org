@@ -2,16 +2,11 @@
 
 ** Sooner
 
-*** DONE Identify Clang commits for AMD64
-    CLOSED: [2019-12-15 Sun 13:16]
-*** DONE Setup reliable IPs and hostnames for boxes
-    CLOSED: [2019-12-26 Thu 20:57]
-*** DONE Alert SLY about CLISP UTF-8 settings
-    CLOSED: [2020-02-11 Tue 23:43]
-*** DONE Build CI pipelines for CLISP
-    CLOSED: [2020-03-23 Mon 14:59]
-*** TODO Model finances in Common Lisp
-*** TODO [[./projects/gitlab-squash.org]]
+*** TODO Submit Emacs patch
+*** TODO Submit Sunrise Commander patch
+*** TODO Write blog on compiling Emacs.app against the latest GNUstep
+*** TODO Write Ansible scripts for NS users
+*** TODO Write Ansible scripts for NS devs
 
 ** Later
 
