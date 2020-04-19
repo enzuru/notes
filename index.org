@@ -4,18 +4,18 @@
 
 *** DONE Submit Emacs patch
     CLOSED: [2020-04-17 Fri 16:26]
-*** TODO Write blog on compiling Emacs.app against the latest GNUstep
+*** DONE Submit PC patch to fix default editor
+    CLOSED: [2020-04-19 Sun 10:59]
+*** DONE Write blog on compiling Emacs.app against the latest GNUstep
+    CLOSED: [2020-04-19 Sun 10:59]
 *** TODO Write Ansible scripts for NS users
-*** TODO Write NEXTSPACE battery icon
-*** TODO Submit Sunrise Commander patch
 *** TODO Write Ansible scripts for NS devs
 
 ** Later
 
+*** TODO Submit Sunrise Commander patch
 *** TODO Write Hyperbole blog
-*** TODO Refactor shell scripts
 *** TODO Refactor .emacs.d with more comments, less packages, and a better README
-*** TODO Make Emacs TRAMP prompts more clear
 
 ** Workspaces
 
