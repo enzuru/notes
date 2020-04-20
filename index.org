@@ -8,6 +8,9 @@
     CLOSED: [2020-04-19 Sun 10:59]
 *** DONE Write blog on compiling Emacs.app against the latest GNUstep
     CLOSED: [2020-04-19 Sun 10:59]
+*** DONE Setup Emacs.app for Objective-C development
+    CLOSED: [2020-04-19 Sun 19:43]
+*** TODO Write blog on setting up Emacs.app for Objective-C development
 *** TODO Write Ansible scripts for NS users
 *** TODO Write Ansible scripts for NS devs
 
