@@ -1,0 +1,15 @@
+* Personal projects
+
+** To do
+
+*** TODO Setup Guix
+    CLOSED: [2021-11-07 Sat 15:00]
+*** TODO Setup emacs-native-comp
+    CLOSED: [2021-11-08 Sun 15:00]
+*** TODO Get user services running
+*** TODO Fix sunrise-commander
+*** TODO Review list of Guile libraries
+
+** Links
+
+*** https://www.gnu.org/software/guile/libraries/
