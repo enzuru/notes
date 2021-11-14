@@ -3,10 +3,12 @@
 ** Workspaces
 
 - # <(1. Mail)>
-- # <(2. Emacs Lisp)>
-- # <(3. Common Lisp)>
+- # <(2. IRC)>
+- # <(3. Emacs Lisp)>
+- # <(4. Scheme Lisp)>
+- # <(5. Common Lisp)>
 
 ** Applications
 
 - # <(Google)>
-- # <(htop)>
+- # <(glances)>

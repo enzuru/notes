@@ -2,13 +2,25 @@
 
 ** To do
 
-*** TODO Setup Guix
-    CLOSED: [2021-11-07 Sat 15:00]
-*** TODO Setup emacs-native-comp
-    CLOSED: [2021-11-08 Sun 15:00]
-*** TODO Get user services running
+*** DONE Setup Guix
+CLOSED: [2021-11-07 Sat 15:00]
+
+*** DONE Setup emacs-native-comp
+CLOSED: [2021-11-08 Sun 15:00]
+
+*** DONE Get user services running
+CLOSED: [2021-11-13 Sat 11:21]
+
+*** DONE Get mcron working
+CLOSED: [2021-11-14 Sun 00:34]
+
 *** TODO Fix sunrise-commander
+
+*** TODO Ensure guix-profiles clone gets submodules
+
 *** TODO Review list of Guile libraries
+
+*** TODO Add further security features
 
 ** Links
 
