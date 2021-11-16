@@ -1,6 +1,6 @@
 * Personal projects
 
-** To do
+** Setup
 
 *** DONE Setup Guix
 CLOSED: [2021-11-07 Sat 15:00]
@@ -19,6 +19,14 @@ CLOSED: [2021-11-14 Sun 16:02]
 
 *** DONE Fix slow emails
 CLOSED: [2021-11-14 Sun 16:02]
+
+** Study
+
+*** TODO Study SICP
+
+*** TODO Study PAIP
+
+** Work
 
 *** TODO Test exwm PRs
 
