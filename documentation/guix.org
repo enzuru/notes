@@ -1,0 +1,8 @@
+* Guix
+
+** Upgrade
+
+#+BEGIN_SRC sh
+guix pull
+guix upgrade
+#+END_SRC
