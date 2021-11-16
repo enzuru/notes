@@ -14,11 +14,25 @@ CLOSED: [2021-11-13 Sat 11:21]
 *** DONE Get mcron working
 CLOSED: [2021-11-14 Sun 00:34]
 
-*** TODO Fix sunrise-commander
+*** DONE Review list of Guile libraries
+CLOSED: [2021-11-14 Sun 16:02]
+
+*** DONE Fix slow emails
+CLOSED: [2021-11-14 Sun 16:02]
+
+*** TODO Test exwm PRs
 
 *** TODO Ensure guix-profiles clone gets submodules
 
-*** TODO Review list of Guile libraries
+*** TODO Fix sunrise-commander
+
+*** TODO Fix windmove
+
+** Maybe
+
+*** TODO Consolidate setq
+
+*** TODO Common advice
 
 *** TODO Add further security features
 
