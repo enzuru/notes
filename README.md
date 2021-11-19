@@ -1,4 +1,4 @@
-# org
+# Notes
 
 This repository contains my live notes written in [Org mode](https://orgmode.org/) and [GNU Hyperbole](https://www.gnu.org/software/hyperbole/) regarding the projects that I am working on.
 
