@@ -2,6 +2,8 @@
 
 ** Upgrade
 
+From every user:
+
 #+BEGIN_SRC sh
 guix pull
 guix upgrade

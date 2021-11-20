@@ -14,19 +14,22 @@ CLOSED: [2021-11-13 Sat 11:21]
 *** DONE Get mcron working
 CLOSED: [2021-11-14 Sun 00:34]
 
-*** DONE Review list of Guile libraries
-CLOSED: [2021-11-14 Sun 16:02]
-
 *** DONE Fix slow emails
 CLOSED: [2021-11-14 Sun 16:02]
 
 ** Study
 
-*** TODO Study SICP
+*** DONE Review list of Guile libraries
+CLOSED: [2021-11-14 Sun 16:02]
 
-*** TODO Study PAIP
+*** TODO Read SICP
+
+*** TODO Read PAIP
 
 ** Work
+
+*** DONE Cleanup enzuru-window-manager.el
+CLOSED: [2021-11-20 Sat 12:08]
 
 *** TODO Test exwm PRs
 
@@ -38,9 +41,9 @@ CLOSED: [2021-11-14 Sun 16:02]
 
 ** Maybe
 
-*** TODO Consolidate setq
+*** TODO Cleanup .emacs.d... or just consolidate setq
 
-*** TODO Common advice
+*** TODO common-advice
 
 *** TODO Add further security features
 
