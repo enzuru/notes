@@ -8,7 +8,9 @@
 - # <(4. Scheme Lisp)>
 - # <(5. Common Lisp)>
 
-** Applications
+** Links
 
+- # <(personal.org)>
+- # <(IceCat)>
 - # <(Google)>
 - # <(glances)>

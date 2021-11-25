@@ -1,4 +1,4 @@
-* Personal projects
+* Guix workstation
 
 ** Setup
 
@@ -17,10 +17,14 @@ CLOSED: [2021-11-14 Sun 00:34]
 *** DONE Fix slow emails
 CLOSED: [2021-11-14 Sun 16:02]
 
-** Study
+** Research
 
 *** DONE Review list of Guile libraries
 CLOSED: [2021-11-14 Sun 16:02]
+
+*** TODO Review list of Emacs packages
+
+** Study
 
 *** TODO Read SICP
 
@@ -31,17 +35,28 @@ CLOSED: [2021-11-14 Sun 16:02]
 *** DONE Cleanup enzuru-window-manager.el
 CLOSED: [2021-11-20 Sat 12:08]
 
+*** DONE Fix windmove
+CLOSED: [2021-11-24 Wed 22:03]
+
+*** TODO Add locate database
+
+*** TODO Add daemon mode for Shepherd
+
+*** TODO Add Lispy info file
+
+*** TODO Switch over to emacs mode maps
+
 *** TODO Test exwm PRs
 
 *** TODO Ensure guix-profiles clone gets submodules
 
 *** TODO Fix sunrise-commander
 
-*** TODO Fix windmove
-
 ** Maybe
 
 *** TODO Cleanup .emacs.d... or just consolidate setq
+
+*** TODO Make mcron/shepherd not start twice?
 
 *** TODO common-advice
 
