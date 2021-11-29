@@ -44,6 +44,7 @@ CLOSED: [2021-11-28 Sun 20:57]
 CLOSED: [2021-11-28 Sun 20:57]
 *** DONE Use modify maps
 CLOSED: [2021-11-28 Sun 20:57]
+*** TODO Add back some packages
 *** TODO Review use-package
 *** TODO Consolidate variables
 *** TODO Cleanup final files
