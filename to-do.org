@@ -28,6 +28,7 @@ CLOSED: [2021-11-20 Sat 12:08]
 CLOSED: [2021-11-24 Wed 22:03]
 *** DONE Add locate database
 CLOSED: [2021-11-25 Thu 13:27]
+*** TODO Give git repos better SEO
 *** TODO Fix sunrise-commander
 *** TODO Ensure guix-profiles clone gets submodules
 *** TODO Add Lispy info file
@@ -46,6 +47,7 @@ CLOSED: [2021-11-28 Sun 20:57]
 *** TODO Review use-package
 *** TODO Consolidate variables
 *** TODO Cleanup final files
+*** TODO Lazy load
 *** TODO Leverage closures
 
 ** Maybe
