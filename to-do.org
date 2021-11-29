@@ -1,4 +1,4 @@
-* Guix workstation
+* To do list
 
 ** Setup
 *** DONE Setup Guix
@@ -29,15 +29,12 @@ CLOSED: [2021-11-24 Wed 22:03]
 *** DONE Add locate database
 CLOSED: [2021-11-25 Thu 13:27]
 *** TODO Fix sunrise-commander
-*** TODO Switch config over to lexical bindings?
 *** TODO Ensure guix-profiles clone gets submodules
-*** TODO Switch over to emacs mode maps
 *** TODO Add Lispy info file
 *** TODO Add daemon mode for Shepherd
 *** TODO Test exwm PRs
 
 ** .emacs.d
-
 *** DONE Switch over to lexical scopes
 CLOSED: [2021-11-28 Sun 20:57]
 *** DONE Switch over to use-package
@@ -52,11 +49,6 @@ CLOSED: [2021-11-28 Sun 20:57]
 *** TODO Leverage closures
 
 ** Maybe
-
 *** TODO Make mcron/shepherd not start twice?
 *** TODO common-advice
 *** TODO Add further security features
-
-** Links
-
-*** https://www.gnu.org/software/guile/libraries/

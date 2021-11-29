@@ -10,7 +10,7 @@
 
 ** Links
 
-- # <(personal.org)>
+- # <(to-do.org)>
 - # <(IceCat)>
 - # <(Google)>
 - # <(glances)>
