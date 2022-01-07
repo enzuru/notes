@@ -30,6 +30,7 @@ CLOSED: [2021-11-24 Wed 22:03]
 CLOSED: [2021-11-25 Thu 13:27]
 *** TODO Give git repos better SEO
 *** TODO Fix sunrise-commander
+*** TODO Fix rainbow-blocks
 *** TODO Ensure guix-profiles clone gets submodules
 *** TODO Add Lispy info file
 *** TODO Add daemon mode for Shepherd
@@ -45,6 +46,7 @@ CLOSED: [2021-11-28 Sun 20:57]
 *** DONE Use modify maps
 CLOSED: [2021-11-28 Sun 20:57]
 *** TODO Add back some packages
+*** TODO Get rid of setup folder completely
 *** TODO Review use-package
 *** TODO Consolidate variables
 *** TODO Cleanup final files
@@ -52,6 +54,7 @@ CLOSED: [2021-11-28 Sun 20:57]
 *** TODO Leverage closures
 
 ** Maybe
+*** TODO Install all Emacs langs on Guix
 *** TODO Make mcron/shepherd not start twice?
 *** TODO common-advice
 *** TODO Add further security features
