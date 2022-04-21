@@ -7,4 +7,5 @@ From every user:
 #+BEGIN_SRC sh
 guix pull
 guix upgrade
+guix system reconfigure config.scm
 #+END_SRC
