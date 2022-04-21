@@ -2,10 +2,16 @@
 
 ** Upgrade
 
-From every user:
+For every user:
 
 #+BEGIN_SRC sh
 guix pull
 guix upgrade
+#+END_SRC
+
+As root:
+
+#+BEGIN_SRC sh
 guix system reconfigure config.scm
 #+END_SRC
+
