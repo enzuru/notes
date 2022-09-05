@@ -2,3 +2,9 @@
 
 - # <(man)>
 - # <(faq)>
+
+* Mount disks from CD boot
+
+```
+cd /dev && sh MAKEDEV sd0
+```
