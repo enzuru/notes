@@ -8,4 +8,4 @@ Org mode uses [Org syntax](https://orgmode.org/worg/dev/org-syntax.html) whereas
 
 # License
 
-Licensed under the GPLv3; copyright is assigned to the nonprofit Salma Karama, LLC
+Licensed under the GPLv3; copyright is assigned to my eponymous nonprofit [enzu.ru](https://enzu.ru)
