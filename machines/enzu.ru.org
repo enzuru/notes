@@ -1,0 +1,8 @@
+* enzu.ru
+
+Used for building maccppc port of OpenBSD.
+
+** Links
+
+- # <(ssh)>
+- # <(tramp)>

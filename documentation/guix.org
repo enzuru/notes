@@ -12,6 +12,7 @@ guix upgrade
 As root:
 
 #+BEGIN_SRC sh
-guix system reconfigure config.scm
+guix system reconfigure configuration.scm
+reboot
 #+END_SRC
 
