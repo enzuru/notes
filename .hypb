@@ -3,8 +3,8 @@
 ("1._Mail" nil nil eval-elisp ((progn (exwm-workspace-switch-create 1) (notmuch) (start-process "glances" "glances" "urxvtc" "-e" "glances") (split-window-right))) "guix" "20191208:23:34:44" "enzuru" "20191208:23:37:55")
 ("2._Social" nil nil eval-elisp ((progn (exwm-workspace-switch-create 2) (enzuru-setup-irc))) "guix" "20191208:23:34:44" "enzuru" "20191208:23:37:55")
 ("3._Emacs_Lisp" nil nil eval-elisp ((progn (exwm-workspace-switch-create 3) (find-file "~/.emacs.d/init.el") (magit-status) (delete-other-windows) (split-window-right) (switch-to-buffer "init.el"))) "guix" "20191208:23:37:31" nil nil)
-("4._Scheme_Lisp" nil nil eval-elisp ((progn (exwm-workspace-switch-create 4) (info "Guile") (run-geiser nil) (delete-other-windows) (split-window-right) (switch-to-buffer "*info*"))) "guix" "20191208:23:37:31" nil nil)
-("5._Common_Lisp" nil nil eval-elisp ((progn (exwm-workspace-switch-create 5) (info "~/books/gcl/gcl.info") (sly))) "guix" "20191208:23:37:31" nil nil)
+("4._Scheme_Lisp" nil nil eval-elisp ((progn (exwm-workspace-switch-create 4) (info "Guile") (run-geiser nil) (delete-other-windows) (split-window-right) (switch-to-buffer "*info*" "*guile-manual*"))) "guix" "20191208:23:37:31" nil nil)
+("5._Common_Lisp" nil nil eval-elisp ((progn (exwm-workspace-switch-create 5) (info "~/books/gcl/gcl.info" "*gcl-manual*") (sly))) "guix" "20191208:23:37:31" nil nil)
 ("6._Clojure" nil nil eval-elisp ((progn (exwm-workspace-switch-create 5) (find-file "~/src/test-clojure/project.clj") (cider-jack-in))) "guix" "20191208:23:37:31" nil nil)
 ("to-do.org" nil nil eval-elisp ((find-file "~/notes/to-do.org")) "guix" "20191208:23:37:31" nil nil)
 "Google"
