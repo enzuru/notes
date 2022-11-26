@@ -76,3 +76,4 @@ CLOSED: [2022-11-26 Sat 12:59]
 *** TODO common-advice
 *** TODO Add further security features
 *** TODO Spotify integration
+*** TODO Upgrade to latest Linux kernel
