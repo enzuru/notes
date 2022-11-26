@@ -58,11 +58,12 @@ CLOSED: [2022-11-26 Sat 12:59]
 CLOSED: [2022-11-26 Sat 12:59]
 *** DONE Cleanup final files
 CLOSED: [2022-11-26 Sat 12:59]
-*** TODO: Switch to straight.el
+*** DONE Yasnippets
+CLOSED: [2022-11-26 Sat 15:17]
 
+*** TODO Switch to straight.el
 *** TODO Mediawiki editing
 *** TODO Verb + curl-to-elisp + counsel-jq
-*** TODO Yasnippets
 *** TODO code-review
 
 *** TODO Lazy load
