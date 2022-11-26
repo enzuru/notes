@@ -39,6 +39,8 @@ CLOSED: [2021-11-25 Thu 13:27]
 *** TODO Add daemon mode for Shepherd
 *** TODO Test exwm PRs
 
+*** TODO Get Clojure working
+
 ** .emacs.d
 *** DONE Switch over to lexical scopes
 CLOSED: [2021-11-28 Sun 20:57]
