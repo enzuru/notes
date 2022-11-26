@@ -1,6 +1,5 @@
 * To do list
 
-** Setup
 *** DONE Setup Guix
 CLOSED: [2021-11-07 Sat 15:00]
 *** DONE Setup emacs-native-comp
@@ -45,16 +44,20 @@ CLOSED: [2021-11-28 Sun 20:57]
 CLOSED: [2021-11-28 Sun 20:57]
 *** DONE Use modify maps
 CLOSED: [2021-11-28 Sun 20:57]
-*** TODO Add back some packages
-*** TODO Get rid of setup folder completely
-*** TODO Review use-package
-*** TODO Consolidate variables
-*** TODO Cleanup final files
+*** DONE Add back some packages
+CLOSED: [2022-11-26 Sat 12:59]
+*** DONE Review use-package
+CLOSED: [2022-11-26 Sat 12:59]
+*** DONE Consolidate variables
+CLOSED: [2022-11-26 Sat 12:59]
+*** DONE Cleanup final files
+CLOSED: [2022-11-26 Sat 12:59]
 *** TODO Lazy load
 *** TODO Leverage closures
 
 ** Maybe
 *** TODO Install all Emacs langs on Guix
-*** TODO Make mcron/shepherd not start twice?
+*** DONE Make mcron/shepherd not start twice?
+CLOSED: [2022-11-26 Sat 12:59]
 *** TODO common-advice
 *** TODO Add further security features
