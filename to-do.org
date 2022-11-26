@@ -27,12 +27,14 @@ CLOSED: [2021-11-20 Sat 12:08]
 CLOSED: [2021-11-24 Wed 22:03]
 *** DONE Add locate database
 CLOSED: [2021-11-25 Thu 13:27]
+
 *** TODO Make company-spell async
-*** TODO Give git repos better SEO
 *** TODO Fix sunrise-commander
 *** TODO Fix rainbow-blocks
-*** TODO Ensure guix-profiles clone gets submodules
 *** TODO Add Lispy info file
+
+*** TODO Give git repos better SEO
+*** TODO Ensure guix-profiles clone gets submodules
 *** TODO Add daemon mode for Shepherd
 *** TODO Test exwm PRs
 
