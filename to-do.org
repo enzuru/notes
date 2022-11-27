@@ -1,5 +1,6 @@
 * To do list
 
+** Setup
 *** DONE Setup Guix
 CLOSED: [2021-11-07 Sat 15:00]
 *** DONE Setup emacs-native-comp
@@ -21,26 +22,25 @@ CLOSED: [2022-11-26 Sat 14:12]
 *** TODO Read SICP
 *** TODO Read PAIP
 
-** Work
+** Lisp user space
 *** DONE Cleanup enzuru-window-manager.el
 CLOSED: [2021-11-20 Sat 12:08]
 *** DONE Fix windmove
 CLOSED: [2021-11-24 Wed 22:03]
 *** DONE Add locate database
 CLOSED: [2021-11-25 Thu 13:27]
+*** DONE Get Clojure working
+CLOSED: [2022-11-27 Sun 14:46]
 
 *** TODO Improve IRC loading
+*** TODO Improve Shepherd loading
 
+** Emacs packages
 *** TODO Make company-spell async
 *** TODO Fix sunrise-commander
 *** TODO Fix rainbow-blocks
 *** TODO Add Lispy info file
-
-*** TODO Give git repos better SEO
-*** TODO Add daemon mode for Shepherd
 *** TODO Test exwm PRs
-
-*** TODO Get Clojure working
 
 ** .emacs.d
 *** DONE Switch over to lexical scopes
@@ -61,7 +61,6 @@ CLOSED: [2022-11-26 Sat 12:59]
 CLOSED: [2022-11-26 Sat 12:59]
 *** DONE Yasnippets
 CLOSED: [2022-11-26 Sat 15:17]
-
 *** DONE Switch to straight.el
 CLOSED: [2022-11-27 Sun 14:20]
 *** DONE Move all git submodules to straight.el
@@ -76,10 +75,11 @@ CLOSED: [2022-11-27 Sun 14:20]
 
 
 ** Maybe
-*** TODO Install all Emacs langs on Guix
 *** DONE Make mcron/shepherd not start twice?
 CLOSED: [2022-11-26 Sat 12:59]
 *** TODO common-advice
 *** TODO Add further security features
 *** TODO Spotify integration
 *** TODO Upgrade to latest Linux kernel
+*** TODO Give git repos better SEO
+*** TODO Add daemon mode for Shepherd
