@@ -35,7 +35,6 @@ CLOSED: [2021-11-25 Thu 13:27]
 *** TODO Add Lispy info file
 
 *** TODO Give git repos better SEO
-*** TODO Ensure guix-profiles clone gets submodules
 *** TODO Add daemon mode for Shepherd
 *** TODO Test exwm PRs
 
@@ -61,7 +60,11 @@ CLOSED: [2022-11-26 Sat 12:59]
 *** DONE Yasnippets
 CLOSED: [2022-11-26 Sat 15:17]
 
-*** TODO Switch to straight.el
+*** DONE Switch to straight.el
+CLOSED: [2022-11-27 Sun 14:20]
+*** DONE Move all git submodules to straight.el
+CLOSED: [2022-11-27 Sun 14:20]
+
 *** TODO Mediawiki editing
 *** TODO Verb + curl-to-elisp + counsel-jq
 *** TODO code-review
