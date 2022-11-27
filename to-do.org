@@ -29,6 +29,8 @@ CLOSED: [2021-11-24 Wed 22:03]
 *** DONE Add locate database
 CLOSED: [2021-11-25 Thu 13:27]
 
+*** TODO Improve IRC loading
+
 *** TODO Make company-spell async
 *** TODO Fix sunrise-commander
 *** TODO Fix rainbow-blocks
