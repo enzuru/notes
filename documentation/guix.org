@@ -2,17 +2,9 @@
 
 ** Upgrade
 
-For every user:
-
 #+BEGIN_SRC sh
-guix pull
-guix upgrade
+guix pull --branch=optional
+sudo guix system reconfigure configuration.scm
 #+END_SRC
 
-As root:
-
-#+BEGIN_SRC sh
-guix system reconfigure configuration.scm
-reboot
-#+END_SRC
-
+Sudo is important because you want to use the user's path.
