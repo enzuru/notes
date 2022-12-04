@@ -1,20 +1,6 @@
 * To do list
 
-** Setup
-*** DONE Setup Guix
-CLOSED: [2021-11-07 Sat 15:00]
-*** DONE Setup emacs-native-comp
-CLOSED: [2021-11-08 Sun 15:00]
-*** DONE Get user services running
-CLOSED: [2021-11-13 Sat 11:21]
-*** DONE Get mcron working
-CLOSED: [2021-11-14 Sun 00:34]
-*** DONE Fix slow emails
-CLOSED: [2021-11-14 Sun 16:02]
-
 ** Research
-*** DONE Review list of Guile libraries
-CLOSED: [2021-11-14 Sun 16:02]
 *** DONE Review list of Emacs packages
 CLOSED: [2022-11-26 Sat 14:12]
 
@@ -22,34 +8,19 @@ CLOSED: [2022-11-26 Sat 14:12]
 *** TODO Read SICP
 *** TODO Read PAIP
 
-** Lisp user space
-*** DONE Cleanup enzuru-window-manager.el
-CLOSED: [2021-11-20 Sat 12:08]
-*** DONE Fix windmove
-CLOSED: [2021-11-24 Wed 22:03]
-*** DONE Add locate database
-CLOSED: [2021-11-25 Thu 13:27]
+** Guix
 *** DONE Get Clojure working
 CLOSED: [2022-11-27 Sun 14:46]
-*** TODO Improve IRC loading
 *** TODO Improve Shepherd loading
 
-** Emacs packages
+** Packages
 *** TODO Make company-spell async
 *** TODO Fix sunrise-commander
 *** TODO Fix rainbow-blocks
 *** TODO Add Lispy info file
 *** TODO Test exwm PRs
 
-** .emacs.d
-*** DONE Switch over to lexical scopes
-CLOSED: [2021-11-28 Sun 20:57]
-*** DONE Switch over to use-package
-CLOSED: [2021-11-28 Sun 20:57]
-*** DONE Consolidate setq
-CLOSED: [2021-11-28 Sun 20:57]
-*** DONE Use modify maps
-CLOSED: [2021-11-28 Sun 20:57]
+** Emacs
 *** DONE Add back some packages
 CLOSED: [2022-11-26 Sat 12:59]
 *** DONE Review use-package
@@ -71,18 +42,19 @@ CLOSED: [2022-12-04 Sun 12:09]
 *** TODO Switch from lsp to eglot
 *** TODO Cleanup and improve various language modes
 
+*** TODO Improve IRC loading
 *** TODO Mediawiki editing
 *** TODO Verb + curl-to-elisp + counsel-jq
 *** TODO code-review
 *** TODO Leverage closures
 
-
 ** Maybe
 *** DONE Make mcron/shepherd not start twice?
 CLOSED: [2022-11-26 Sat 12:59]
+*** DONE Upgrade to latest Linux kernel
+CLOSED: [2022-12-04 Sun 12:12]
+
 *** TODO common-advice
 *** TODO Add further security features
 *** TODO Spotify integration
-*** TODO Upgrade to latest Linux kernel
 *** TODO Give git repos better SEO
-*** TODO Add daemon mode for Shepherd
