@@ -1,0 +1,7 @@
+* Browserless
+
+A traditional web browser can be mostly replaced by a combination of:
+
+- Local documentation
+- eww
+- Gopher
