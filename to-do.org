@@ -31,7 +31,6 @@ CLOSED: [2021-11-24 Wed 22:03]
 CLOSED: [2021-11-25 Thu 13:27]
 *** DONE Get Clojure working
 CLOSED: [2022-11-27 Sun 14:46]
-
 *** TODO Improve IRC loading
 *** TODO Improve Shepherd loading
 
@@ -65,12 +64,16 @@ CLOSED: [2022-11-26 Sat 15:17]
 CLOSED: [2022-11-27 Sun 14:20]
 *** DONE Move all git submodules to straight.el
 CLOSED: [2022-11-27 Sun 14:20]
+*** DONE Defer loading
+CLOSED: [2022-12-04 Sun 12:09]
+
+*** TODO Upgrade to Emacs 29
+*** TODO Switch from lsp to eglot
+*** TODO Cleanup and improve various language modes
 
 *** TODO Mediawiki editing
 *** TODO Verb + curl-to-elisp + counsel-jq
 *** TODO code-review
-
-*** TODO Lazy load
 *** TODO Leverage closures
 
 
