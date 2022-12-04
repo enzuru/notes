@@ -5,6 +5,7 @@
 ("3._Emacs_Lisp" nil nil eval-elisp ((progn (exwm-workspace-switch-create 3) (find-file "~/.emacs.d/init.el") (magit-status) (delete-other-windows) (split-window-right) (switch-to-buffer "init.el"))) "guix" "20191208:23:37:31" nil nil)
 ("4._Scheme_Lisp" nil nil eval-elisp ((progn (exwm-workspace-switch-create 4) (info "Guile") (run-geiser nil) (delete-other-windows) (split-window-right) (switch-to-buffer "*info*" "*guile-manual*"))) "guix" "20191208:23:37:31" nil nil)
 ("5._Common_Lisp" nil nil eval-elisp ((progn (exwm-workspace-switch-create 5) (info "~/books/gcl/gcl.info" "*gcl-manual*") (sly))) "guix" "20191208:23:37:31" nil nil)
+("6._Gopher" nil nil eval-elisp ((progn (exwm-workspace-switch-create 6) (elpher))) "guix" "20191208:23:37:31" nil nil)
 ("to-do.org" nil nil eval-elisp ((find-file "~/notes/to-do.org")) "guix" "20191208:23:37:31" nil nil)
 "Google"
 ("Google" nil nil eval-elisp ((start-process "google" "google" "urxvtc" "-e" "links" "https://www.google.com/")) "guix" "20191208:08:49:51" nil nil)
