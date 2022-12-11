@@ -37,9 +37,10 @@ CLOSED: [2022-11-27 Sun 14:20]
 CLOSED: [2022-11-27 Sun 14:20]
 *** DONE Defer loading
 CLOSED: [2022-12-04 Sun 12:09]
+*** DONE Switch from lsp to eglot
+CLOSED: [2022-12-11 Sun 12:20]
 
 *** TODO Upgrade to Emacs 29
-*** TODO Switch from lsp to eglot
 *** TODO Cleanup and improve various language modes
 
 *** TODO Improve IRC loading

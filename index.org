@@ -7,7 +7,8 @@
 - # <(3. Emacs Lisp)>
 - # <(4. Scheme Lisp)>
 - # <(5. Common Lisp)>
-- # <(6. Gopher)>
+- # <(6. Bug tracker)>
+- # <(7. Gopher)>
 
 ** Links
 
