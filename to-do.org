@@ -49,6 +49,14 @@ CLOSED: [2022-12-11 Sun 12:20]
 *** TODO code-review
 *** TODO Leverage closures
 
+** Languages
+*** TODO Documentation lookup (IDE)
+*** TODO Definition lookup (IDE)
+*** TODO Autocomplete (IDE)
+
+*** TODO Syntax lookup (Flycheck)
+*** TODO Snippets lookup (yasnippets)
+
 ** Maybe
 *** DONE Make mcron/shepherd not start twice?
 CLOSED: [2022-11-26 Sat 12:59]
