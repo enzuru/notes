@@ -1,0 +1,17 @@
+* To do
+
+** Version control
+
+*** _znc
+*** enzuru
+*** root
+
+* Functions
+
+** http
+** https
+** mail
+** crypto
+** building
+** monitoring
+** znc

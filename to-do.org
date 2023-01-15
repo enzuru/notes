@@ -1,69 +1,34 @@
 * To do list
 
-** Research
-*** DONE Review list of Emacs packages
-CLOSED: [2022-11-26 Sat 14:12]
-
-** Study
-*** TODO Read SICP
-*** TODO Read PAIP
-
-** Guix
-*** DONE Get Clojure working
-CLOSED: [2022-11-27 Sun 14:46]
-*** TODO Improve Shepherd loading
-
-** Packages
-*** TODO Make company-spell async
-*** TODO Fix sunrise-commander
-*** TODO Fix rainbow-blocks
-*** TODO Add Lispy info file
-*** TODO Test exwm PRs
-
-** Emacs
-*** DONE Add back some packages
-CLOSED: [2022-11-26 Sat 12:59]
-*** DONE Review use-package
-CLOSED: [2022-11-26 Sat 12:59]
-*** DONE Consolidate variables
-CLOSED: [2022-11-26 Sat 12:59]
-*** DONE Cleanup final files
-CLOSED: [2022-11-26 Sat 12:59]
-*** DONE Yasnippets
-CLOSED: [2022-11-26 Sat 15:17]
-*** DONE Switch to straight.el
-CLOSED: [2022-11-27 Sun 14:20]
-*** DONE Move all git submodules to straight.el
-CLOSED: [2022-11-27 Sun 14:20]
-*** DONE Defer loading
-CLOSED: [2022-12-04 Sun 12:09]
-*** DONE Switch from lsp to eglot
-CLOSED: [2022-12-11 Sun 12:20]
-
-*** TODO Upgrade to Emacs 29
-*** TODO Cleanup and improve various language modes
-
-*** TODO Improve IRC loading
-*** TODO Mediawiki editing
-*** TODO Verb + curl-to-elisp + counsel-jq
-*** TODO code-review
-*** TODO Leverage closures
-
 ** Languages
 *** TODO Documentation lookup (IDE)
 *** TODO Definition lookup (IDE)
 *** TODO Autocomplete (IDE)
-
 *** TODO Syntax lookup (Flycheck)
 *** TODO Snippets lookup (yasnippets)
 
-** Maybe
-*** DONE Make mcron/shepherd not start twice?
-CLOSED: [2022-11-26 Sat 12:59]
-*** DONE Upgrade to latest Linux kernel
-CLOSED: [2022-12-04 Sun 12:12]
+** Packages
+*** TODO Make company-spell async
+*** TODO Fix sunrise-commander
+*** TODO Fix rainbow-blocks (treesitter mode?)
+*** TODO Add Lispy info file
+*** TODO Test exwm PRs
 
-*** TODO common-advice
+** Documentation
+*** TODO Upgrading Guix
+*** TODO Broken R7RS URL
+
+** Emacs
+*** TODO Upgrade to Emacs 29
+*** TODO Mediawiki editing
+*** TODO verb + curl-to-elisp + counsel-jq
+*** TODO code-review
+
+** Maybe
 *** TODO Add further security features
 *** TODO Spotify integration
 *** TODO Give git repos better SEO
+
+** Study
+*** TODO Read SICP
+*** TODO Read PAIP

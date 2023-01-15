@@ -8,7 +8,7 @@
 - # <(4. Scheme Lisp)>
 - # <(5. Common Lisp)>
 - # <(6. Bug tracker)>
-- # <(7. Gopher)>
+- # <(7. Gemini)>
 
 ** Links
 
