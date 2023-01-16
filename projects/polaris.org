@@ -2,7 +2,6 @@
 
 ** Version control
 
-*** _znc
 *** enzuru
 *** root
 
