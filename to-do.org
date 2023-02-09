@@ -8,6 +8,8 @@
 *** TODO Snippets lookup (yasnippets)
 
 ** Packages
+*** TODO Counsel for Guile symbols
+*** TODO Counsel for Common Lisp symbols
 *** TODO Make company-spell async
 *** TODO Fix sunrise-commander
 *** TODO Fix rainbow-blocks (treesitter mode?)
@@ -23,6 +25,7 @@
 *** TODO Mediawiki editing
 *** TODO verb + curl-to-elisp + counsel-jq
 *** TODO code-review
+*** TODO Dockerfile
 
 ** Maybe
 *** TODO Add further security features
