@@ -20,6 +20,8 @@
 
 ** Emacs
 *** TODO Upgrade to Emacs 29
+*** TODO Setup treesitter
+*** TODO Add Ivy/Counsel packages
 *** TODO Mediawiki editing
 *** TODO verb + curl-to-elisp + counsel-jq
 *** TODO code-review
