@@ -4,6 +4,7 @@
 *** TODO Documentation lookup (C-c C-d)
 *** TODO Definition lookup (C-c C-w)
 *** TODO REPL (C-c C-r)
+*** TODO Send buffer to REPL (C-x c)
 
 ** Packages
 *** TODO Counsel for Common Lisp symbols
