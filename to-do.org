@@ -1,13 +1,13 @@
 * To do list
 
-** Document keystrokes per language
-*** TODO Documentation lookup
-*** TODO Definition lookup
-*** TODO REPL
+** Provide consistent keystrokes for each development environment
+*** TODO Documentation lookup (C-c C-d)
+*** TODO Definition lookup (C-c C-w)
+*** TODO REPL (C-c C-r)
 
 ** Packages
-*** TODO Counsel for Guile symbols
 *** TODO Counsel for Common Lisp symbols
+*** TODO Counsel for Guile symbols
 *** TODO Make company-spell async
 *** TODO Fix sunrise-commander
 *** TODO Fix rainbow-blocks (treesitter mode?)
@@ -21,7 +21,7 @@
 ** Emacs
 *** TODO Upgrade to Emacs 29
 *** TODO Setup treesitter
-*** TODO Add Ivy/Counsel packages
+*** TODO Add more Ivy/Counsel packages
 *** TODO Mediawiki editing
 *** TODO verb + curl-to-elisp + counsel-jq
 *** TODO code-review
