@@ -1,11 +1,9 @@
 * To do list
 
-** Languages
-*** TODO Documentation lookup (IDE)
-*** TODO Definition lookup (IDE)
-*** TODO Autocomplete (IDE)
-*** TODO Syntax lookup (Flycheck)
-*** TODO Snippets lookup (yasnippets)
+** Document keystrokes per language
+*** TODO Documentation lookup
+*** TODO Definition lookup
+*** TODO REPL
 
 ** Packages
 *** TODO Counsel for Guile symbols
