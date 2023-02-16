@@ -7,12 +7,11 @@
 *** TODO Send buffer to REPL (C-x c)
 
 ** Packages
-*** TODO Counsel for Common Lisp symbols
+*** DONE Counsel for Common Lisp symbols
+CLOSED: [2023-02-15 Wed 20:31]
 *** TODO Counsel for Guile symbols
 *** TODO Make company-spell async
-*** TODO Fix sunrise-commander
 *** TODO Fix rainbow-blocks (treesitter mode?)
-*** TODO Add Lispy info file
 *** TODO Test exwm PRs
 
 ** Documentation
