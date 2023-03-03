@@ -26,6 +26,7 @@ CLOSED: [2023-02-15 Wed 20:31]
 *** TODO verb + curl-to-elisp + counsel-jq
 *** TODO code-review
 *** TODO Dockerfile
+*** TODO Checkout Embark / org-roam
 
 ** Maybe
 *** TODO Add further security features
