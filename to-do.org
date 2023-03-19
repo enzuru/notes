@@ -18,6 +18,10 @@ CLOSED: [2023-02-15 Wed 20:31]
 *** TODO Upgrading Guix
 *** TODO Broken R7RS URL
 
+** AI
+*** TODO Setup ChatGPT
+*** TODO Setup GitHub copilot
+
 ** Emacs
 *** TODO Upgrade to Emacs 29
 *** TODO Setup treesitter
