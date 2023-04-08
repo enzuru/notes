@@ -5,6 +5,7 @@
 *** Publish Lisp user space builds
 *** Depersonalize repos
 *** Create sheet sheet mode
+*** Develop menus
 
 ** Provide consistent keystrokes for each development environment
 *** TODO Documentation lookup (C-c C-d)
