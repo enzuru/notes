@@ -1,5 +1,11 @@
 * To do list
 
+** Going live
+*** Setup Lisp user space Dockerfile
+*** Publish Lisp user space builds
+*** Depersonalize repos
+*** Create sheet sheet mode
+
 ** Provide consistent keystrokes for each development environment
 *** TODO Documentation lookup (C-c C-d)
 *** TODO Definition lookup (C-c C-w)
