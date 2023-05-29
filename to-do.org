@@ -4,7 +4,7 @@
 *** Setup Lisp user space Dockerfile
 *** Publish Lisp user space builds
 *** Depersonalize repos
-*** Create sheet sheet mode
+*** Create cheat sheet mode
 *** Develop menus
 
 ** Provide consistent keystrokes for each development environment
@@ -14,20 +14,13 @@
 *** TODO Send buffer to REPL (C-x c)
 
 ** Packages
-*** DONE Counsel for Common Lisp symbols
-CLOSED: [2023-02-15 Wed 20:31]
 *** TODO Counsel for Guile symbols
 *** TODO Make company-spell async
-*** TODO Fix rainbow-blocks (treesitter mode?)
 *** TODO Test exwm PRs
 
 ** Documentation
 *** TODO Upgrading Guix
 *** TODO Broken R7RS URL
-
-** AI
-*** TODO Setup ChatGPT
-*** TODO Setup GitHub copilot
 
 ** Emacs
 *** TODO Upgrade to Emacs 29
@@ -38,6 +31,7 @@ CLOSED: [2023-02-15 Wed 20:31]
 *** TODO code-review
 *** TODO Dockerfile
 *** TODO Checkout Embark / org-roam
+*** TODO eat terminal
 
 ** Maybe
 *** TODO Add further security features
