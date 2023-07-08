@@ -8,6 +8,18 @@ I need a new visual language for Emacs that is:
 - Doesn't blindly mimic Windows / macOS / GNOME
 - Isn't misleading
 
+Let's create a videogame menu using off-the-shelf Emacs visual language.
+
+Should show:
+
+- Create new project
+- Currently opened projects
+- Variables
+- Functions
+- Applications
+- Mail
+- News
+
 ** Provide consistent keystrokes for each development environment
 *** TODO Create new project
 *** TODO Documentation lookup (C-c C-d)
