@@ -1,13 +1,15 @@
 * To do list
 
-** Going live
-*** Setup Lisp user space Dockerfile
-*** Publish Lisp user space builds
-*** Depersonalize repos
-*** Create cheat sheet mode
-*** Develop menus
+** Visual language
+
+I need a new visual language for Emacs that is:
+
+- Minimalist
+- Doesn't blindly mimic Windows / macOS / GNOME
+- Isn't misleading
 
 ** Provide consistent keystrokes for each development environment
+*** TODO Create new project
 *** TODO Documentation lookup (C-c C-d)
 *** TODO Definition lookup (C-c C-w)
 *** TODO REPL (C-c C-r)
@@ -17,6 +19,13 @@
 *** TODO Counsel for Guile symbols
 *** TODO Make company-spell async
 *** TODO Test exwm PRs
+
+** Going live
+*** TODO Setup Lisp user space Dockerfile
+*** TODO Publish Lisp user space builds
+*** TODO Depersonalize repos
+*** TODO Create cheat sheet mode
+*** TODO Develop menus
 
 ** Documentation
 *** TODO Upgrading Guix
