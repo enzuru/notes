@@ -1,0 +1,7 @@
+* Launcher
+
+** New project
+*** Rust
+
+** Application
+*** ChatGPT
