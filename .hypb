@@ -1,6 +1,6 @@
 
 "index.org"
-("1._Work" nil nil eval-elisp ((progn (exwm-workspace-switch-create 1) (enzuru-add-workspaces) (start-process "glances" "glances" "urxvtc" "-e" "glances") (split-window-right))) "guix" "20191208:23:34:44" "enzuru" "20191208:23:37:55")
+("1._Work" nil nil eval-elisp ((progn (exwm-workspace-switch-create 1) (enzuru-add-workspaces))) "guix" "20191208:23:34:44" "enzuru" "20191208:23:37:55")
 ("2._Social" nil nil eval-elisp ((progn (exwm-workspace-switch-create 2) (enzuru-add-chats))) "guix" "20191208:23:34:44" "enzuru" "20191208:23:37:55")
 "Google"
 ("Google" nil nil eval-elisp ((start-process "google" "google" "urxvtc" "-e" "links" "https://www.google.com/")) "guix" "20191208:08:49:51" nil nil)
