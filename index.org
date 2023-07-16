@@ -2,13 +2,8 @@
 
 ** Workspaces
 
-- # <(1. Mail)>
+- # <(1. Work)>
 - # <(2. Social)>
-- # <(3. Emacs Lisp)>
-- # <(4. Scheme Lisp)>
-- # <(5. Common Lisp)>
-- # <(6. Bug tracker)>
-- # <(7. Gemini)>
 
 ** Links
 
