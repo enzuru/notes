@@ -1,5 +1,8 @@
 * To do list
 
+** ASAP
+*** TODO Switch config and packages over to Vert&co...
+
 ** Provide consistent keystrokes for each development environment
 *** TODO Create new project
 *** TODO Documentation lookup (C-c C-d)
@@ -8,8 +11,6 @@
 *** TODO Send buffer to REPL (C-x c)
 
 ** Packages
-*** TODO Counsel for Guile symbols
-*** TODO Make company-spell async
 *** TODO Test exwm PRs
 
 ** Going live
