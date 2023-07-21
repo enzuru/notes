@@ -12,6 +12,7 @@
 
 ** Packages
 *** TODO Test exwm PRs
+*** TODO Look into consult-eglot, consult-notmuch...
 
 ** Going live
 *** TODO Setup GNU Dockerfile
