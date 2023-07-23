@@ -1,42 +1,25 @@
 * To do list
 
 ** Provide consistent keystrokes for each development environment
-*** TODO Create new project
-*** TODO Documentation lookup (C-c C-d)
-*** TODO Definition lookup (C-c C-w)
-*** TODO REPL (C-c C-r)
-*** TODO Send buffer to REPL (C-x c)
+*** TODO Documentation lookup (C-x C-d)
+*** TODO Definition lookup (C-x C-w)
 
-** Packages
-*** TODO Test exwm PRs
-*** TODO Look into consult-eglot, consult-notmuch...
-
-** Going live
+** GNU
 *** TODO Setup GNU Dockerfile
-*** TODO Publish GNU CI/CD
-*** TODO Depersonalize repos?
-*** TODO Create cheat sheet mode
-*** TODO Develop menus
-
-** Documentation
-*** TODO Upgrading Guix
-*** TODO Broken R7RS URL
+*** TODO Setup GNU CI/CD
 
 ** Emacs
 *** TODO Upgrade to Emacs 29
 *** TODO Setup treesitter
-*** TODO Add more Ivy/Counsel packages
 *** TODO Mediawiki editing
-*** TODO verb + curl-to-elisp + counsel-jq
+*** TODO verb, curl-to-elisp, counsel-jq
 *** TODO code-review
-*** TODO Dockerfile
-*** TODO Checkout Embark / org-roam
 *** TODO eat terminal
+*** TODO consult-eglot, consult-notmuch
 
 ** Maybe
 *** TODO Add further security features
 *** TODO Spotify integration
-*** TODO Give git repos better SEO
 
 ** Study
 *** TODO Read SICP
