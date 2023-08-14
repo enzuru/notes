@@ -2,6 +2,7 @@
 
 ** Immediately
 *** TODO Namespace emacs macro :)
+*** TODO Make .emacs.d idempotent
 
 ** Provide consistent keystrokes for each development environment
 *** TODO Documentation lookup (C-x C-d)
@@ -19,6 +20,7 @@
 *** TODO code-review
 *** TODO eat terminal
 *** TODO consult-eglot, consult-notmuch
+*** TODO add editing support to kubernetes-mode
 
 ** Maybe
 *** TODO Add further security features
