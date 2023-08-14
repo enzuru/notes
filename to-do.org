@@ -2,7 +2,6 @@
 
 ** Immediately
 *** TODO Namespace emacs macro :)
-*** TODO Make .emacs.d idempotent
 
 ** Provide consistent keystrokes for each development environment
 *** TODO Documentation lookup (C-x C-d)
