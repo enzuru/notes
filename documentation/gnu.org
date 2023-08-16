@@ -45,6 +45,11 @@
   (info "Guile")
 #+END_SRC
 
+** Guix
+#+BEGIN_SRC emacs-lisp
+  (info "Guix")
+#+END_SRC
+
 ** Hyperbole
 #+BEGIN_SRC emacs-lisp
   (info "Hyperbole")
