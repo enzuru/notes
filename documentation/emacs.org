@@ -2,7 +2,27 @@
 
 ** Cider
 #+BEGIN_SRC emacs-lisp
-  (info "Cider")
+  (info "cider")
+#+END_SRC
+
+** Common Lisp emulation
+#+BEGIN_SRC emacs-lisp
+  (info "cl")
+#+END_SRC
+
+** Emacs
+#+BEGIN_SRC emacs-lisp
+  (info "emacs")
+#+END_SRC
+
+** Emacs Lisp
+#+BEGIN_SRC emacs-lisp
+  (info "emacs lisp")
+#+END_SRC
+
+** EIEIO
+#+BEGIN_SRC emacs-lisp
+  (info "EIEIO")
 #+END_SRC
 
 ** Eshell
@@ -18,6 +38,11 @@
 ** Gnus
 #+BEGIN_SRC emacs-lisp
   (info "Gnus")
+#+END_SRC
+
+** Guile
+#+BEGIN_SRC emacs-lisp
+  (info "Guile")
 #+END_SRC
 
 ** Hyperbole
