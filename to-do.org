@@ -1,8 +1,5 @@
 * To do list
 
-** Immediately
-*** TODO Namespace emacs macro :)
-
 ** Provide consistent keystrokes for each development environment
 *** TODO Documentation lookup (C-x C-d)
 *** TODO Definition lookup (C-x C-w)
