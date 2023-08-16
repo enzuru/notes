@@ -4,7 +4,6 @@
 
 #+BEGIN_SRC sh
   guix pull --branch=optional
-  guix package -u
   sudo guix system reconfigure configuration.scm
 #+END_SRC
 

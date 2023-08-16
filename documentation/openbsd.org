@@ -1,15 +1,17 @@
-* OpenBSD Release
+* OpenBSD
+
+** Release
 
 - # <(man)>
 - # <(faq)>
 
-* Mount disks from CD boot
+** Mount disks from CD boot
 
 ```
 cd /dev && sh MAKEDEV sd0
 ```
 
-* Resizing disks
+** Resizing disks
 
 https://wiki.ircnow.org/index.php?n=Openbsd.Growfs
 https://www.tumfatig.net/2012/transfer-openbsd-from-one-disk-to-another/

@@ -1,0 +1,36 @@
+* Emacs
+
+** Cider
+#+BEGIN_SRC emacs-lisp
+  (info "Cider")
+#+END_SRC
+
+** Eshell
+#+BEGIN_SRC emacs-lisp
+  (info "Eshell")
+#+END_SRC
+
+** Geiser
+#+BEGIN_SRC emacs-lisp
+  (info "Geiser")
+#+END_SRC
+
+** Gnus
+#+BEGIN_SRC emacs-lisp
+  (info "Gnus")
+#+END_SRC
+
+** Hyperbole
+#+BEGIN_SRC emacs-lisp
+  (info "Hyperbole")
+#+END_SRC
+
+** Sly
+#+BEGIN_SRC emacs-lisp
+  (info "SLY")
+#+END_SRC
+
+** org-mode
+#+BEGIN_SRC emacs-lisp
+  (info "Org")
+#+END_SRC
