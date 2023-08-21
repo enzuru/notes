@@ -5,6 +5,20 @@
 - # <(man)>
 - # <(faq)>
 
+#+BEGIN_SRC sh
+sysupgrade
+EDITOR=emacs sysmerge
+pkg_add -u
+sysclean
+#+END_SRC
+
+*** Smoke testing
+**** View charts
+**** View logs
+**** View ZNC
+**** Get mail
+**** Send mail
+
 ** Mount disks from CD boot
 
 #+BEGIN_SRC sh
