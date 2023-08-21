@@ -7,9 +7,9 @@
 
 ** Mount disks from CD boot
 
-```
+#+BEGIN_SRC sh
 cd /dev && sh MAKEDEV sd0
-```
+#+END_SRC
 
 ** Resizing disks
 
