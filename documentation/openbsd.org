@@ -1,6 +1,6 @@
 * OpenBSD
 
-** Release
+** Upgrading
 
 - # <(man)>
 - # <(faq)>
