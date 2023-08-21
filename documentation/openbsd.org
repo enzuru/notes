@@ -6,10 +6,10 @@
 - # <(faq)>
 
 #+BEGIN_SRC sh
-sysupgrade
-EDITOR=emacs sysmerge
-pkg_add -u
-sysclean
+  sysupgrade
+  EDITOR=emacs sysmerge
+  pkg_add -u
+  sysclean
 #+END_SRC
 
 *** Smoke testing
@@ -22,7 +22,7 @@ sysclean
 ** Mount disks from CD boot
 
 #+BEGIN_SRC sh
-cd /dev && sh MAKEDEV sd0
+  cd /dev && sh MAKEDEV sd0
 #+END_SRC
 
 ** Resizing disks
