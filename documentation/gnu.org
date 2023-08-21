@@ -5,6 +5,11 @@
   (info "cider")
 #+END_SRC
 
+** Common Lisp
+#+BEGIN_SRC emacs-lisp
+  (info "~/books/gcl/gcl.info")
+#+END_SRC
+
 ** Common Lisp emulation
 #+BEGIN_SRC emacs-lisp
   (info "cl")
