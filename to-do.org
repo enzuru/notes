@@ -1,5 +1,10 @@
 * To do list
 
+** Ensure Lispy works for Scheme, Common Lisp, and Clojure
+*** TODO C-1
+*** TODO C-2
+*** TODO e
+
 ** Provide consistent keystrokes for each development environment
 *** TODO Documentation lookup (C-x C-d)
 *** TODO Definition lookup (C-x C-w)
