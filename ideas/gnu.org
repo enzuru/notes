@@ -1,0 +1,16 @@
+* GNU
+
+** Thinking
+*** My packages are either trivial to setup (undo-tree) or too opinionated (Lispy)
+*** Keep configuration public for educational purposes
+*** For anything that is complicated to setup, write a blog post
+*** Publish interesting new code as separate packages
+*** Continue improving existing code
+
+** Contributions
+*** Improve existing code
+*** Publish new packages
+*** Blog difficult tasks
+*** Maintain topical README.md files
+
+Target advanced Linux users, and not beginners. Someone else can help beginners.
