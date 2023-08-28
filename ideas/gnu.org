@@ -12,6 +12,7 @@
 *** Publish new packages
 *** Blog difficult tasks
 *** Maintain topical README.md files
+*** Publicize configuration
 *** Stream hackathons
 
 Target advanced Linux users, and not beginners. Someone else can help beginners.
