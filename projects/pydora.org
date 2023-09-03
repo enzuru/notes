@@ -1,0 +1,29 @@
+* Pydora
+
+** Display
+*** DONE Album art
+CLOSED: [2023-09-03 Sun 10:14]
+*** TODO Song information
+*** TODO Previous song information
+*** TODO Let you click on artists for information
+
+** Client
+*** TODO Send JSON of commands
+
+** Controls
+*** TODO "n": ("play next song", "skip_song"),
+*** TODO "p": ("pause/resume song", "pause_song"),
+*** TODO "s": ("stop playing station", "stop_station"),
+*** TODO "d": ("dislike song", "dislike_song"),
+*** TODO "u": ("like song", "like_song"),
+*** TODO "b": ("bookmark song", "bookmark_song"),
+*** TODO "a": ("bookmark artist", "bookmark_artist"),
+*** TODO "S": ("sleep song for 30 days", "sleep_song"),
+*** TODO "Q": ("quit player", "quit"),
+*** TODO "vu": ("raise volume", "raise_volume"),
+*** TODO "vd": ("lower volume", "lower_volume"),
+*** TODO "?": ("display this help", "help"),
+
+** Server
+*** TODO Send JSON success/fail response for actions
+*** TODO Send JSON of song every time it updates
