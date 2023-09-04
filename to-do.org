@@ -1,6 +1,6 @@
 * To do list
 
-** Fix basic flymake warnings ;)
+** Fix basic flymake warnings (require 'straight) etc
 
 ** Ensure Lispy works for Scheme, Common Lisp, and Clojure
 *** TODO C-1
