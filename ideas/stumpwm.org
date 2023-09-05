@@ -4,5 +4,6 @@
 *** Beautiful codebase
 *** Multithreading
 *** Mimic tmux
+*** Good modeline
 *** Contain browser in its own group
 *** Contain terminals in their own group
