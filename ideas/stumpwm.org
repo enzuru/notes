@@ -8,3 +8,8 @@
 *** Contain browser in its own group
 *** Contain terminals in their own group
 *** Will have a Wayland successor
+
+** Threefold path
+*** Emacs running Lisp
+*** Web browser running JavaScript
+*** Terminal running Fish
