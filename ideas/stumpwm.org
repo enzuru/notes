@@ -1,0 +1,7 @@
+* StumpWM
+
+** Advantages over exwm
+*** Multithreading
+*** Mimic tmux
+*** Contain browser in its own group
+*** Contain terminals in their own group
