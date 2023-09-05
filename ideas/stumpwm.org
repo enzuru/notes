@@ -1,6 +1,7 @@
 * StumpWM
 
 ** Advantages over exwm
+*** Beautiful codebase
 *** Multithreading
 *** Mimic tmux
 *** Contain browser in its own group
