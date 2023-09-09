@@ -1,0 +1,18 @@
+* USD
+
+** USD/CAD: Canadian dollar
+** USD/CHF: Swiss franc
+** USD/CNH: Chinese yua
+** USD/CZK: Check Koruna
+** USD/DKK: Danish krone
+** USD/HKD: Hong Kong dollar
+** USD/HUF: Hungarian forint
+** USD/JPY: Japanese yen
+** USD/MXN: Mexican peso
+** USD/NOK: Norwegian krone
+** USD/PLN: Polisy zloty
+** USD/SEK: Swedish krona
+** USD/SGD: Singapore dollar
+** USD/THB: Thai baht
+** USD/TRY: Turkish lira
+** USD/ZAR: South African rand
