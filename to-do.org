@@ -12,11 +12,11 @@
 *** TODO Definition lookup (C-x C-w)
 
 ** GNU
+*** TODO Improve cl-lib documentation
 *** TODO Setup GNU Dockerfile
 *** TODO Setup GNU CI/CD
 
 ** Emacs
-*** TODO Upgrade to Emacs 29
 *** TODO Setup treesitter
 *** TODO Mediawiki editing
 *** TODO verb, curl-to-elisp, counsel-jq
