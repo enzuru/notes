@@ -9,7 +9,9 @@
   sysupgrade
   EDITOR=emacs sysmerge
   pkg_add -u
-  sysclean
+  sysclean | xargs rm -f
+  /root/bin/renew-certs
+  reboot
 #+END_SRC
 
 *** Smoke testing
