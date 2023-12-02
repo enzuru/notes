@@ -18,7 +18,6 @@
 
 ** Emacs
 *** TODO Setup treesitter
-*** TODO Mediawiki editing
 *** TODO verb, curl-to-elisp, counsel-jq
 *** TODO code-review
 *** TODO eat terminal
