@@ -17,7 +17,6 @@
 *** TODO Setup GNU CI/CD
 
 ** Emacs
-*** TODO Setup treesitter
 *** TODO verb, curl-to-elisp, counsel-jq
 *** TODO code-review
 *** TODO eat terminal
