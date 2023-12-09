@@ -17,6 +17,7 @@
 *** TODO Setup GNU CI/CD
 
 ** Emacs
+*** TODO Ensure init and config are used appropriately by use-package
 *** TODO verb, curl-to-elisp, counsel-jq
 *** TODO code-review
 *** TODO eat terminal
