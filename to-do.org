@@ -27,6 +27,9 @@
 *** TODO Add further security features
 *** TODO Spotify integration
 
+** Eventually
+*** TODO Switch to wayland
+
 ** Study
 *** TODO Read SICP
 *** TODO Read PAIP
