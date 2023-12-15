@@ -1,4 +1,8 @@
 
 "enzu.ru.org"
-("ssh" nil nil eval-elisp ((start-process "enzu.ru" "enzu.ru" "urxvtc" "-e" "ssh" "root@enzu.ru")) "enzuru@ibook.enzu.ru" "20191208:08:16:10" "enzuru" "20191208:102:55:42")
+("ssh" nil nil eval-elisp ((start-process "enzu.ru" "enzu.ru" "kitty" "-e" "ssh" "root@enzu.ru")) "enzuru@ibook.enzu.ru" "20191208:08:16:10" "enzuru" "20191208:102:55:42")
 ("tramp" nil nil eval-elisp ((find-file "/scp:root@enzu.ru:/")) "enzuru@ibook.enzu.ru" "20191209:00:33:13" nil nil)
+
+"institute.org"
+("ssh" nil nil eval-elisp ((start-process "enzu.ru" "enzu.ru" "kitty" "-e" "ssh" "enzuru@tilde.institute")) "enzuru@ibook.enzu.ru" "20191208:08:16:10" "enzuru" "20191208:102:55:42")
+("tramp" nil nil eval-elisp ((find-file "/scp:enzuru@tilde.institute:/")) "enzuru@ibook.enzu.ru" "20191209:00:33:13" nil nil)
