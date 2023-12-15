@@ -12,12 +12,11 @@
 *** TODO Definition lookup (C-x C-w)
 
 ** GNU
-*** TODO Improve cl-lib documentation
+*** TODO Improve cl-lib documentation and tests
 *** TODO Setup GNU Dockerfile
 *** TODO Setup GNU CI/CD
 
 ** Emacs
-*** TODO Ensure init and config are used appropriately by use-package
 *** TODO verb, curl-to-elisp, counsel-jq
 *** TODO code-review
 *** TODO eat terminal
