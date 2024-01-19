@@ -26,3 +26,14 @@ Sudo is important because you want to use the user's path.
       echo "Setting LD_LIBRARY_PATH based on LIBRARY_PATH to ${LD_LIBRARY_PATH}"
     fi
 #+END_SRC
+
+** Recreating
+
+1. Backup .ssh and local.el
+2. Burn Guix ISO using Rufus (when prompted, select dd)
+3. Install Guix
+4. Restore .ssh and local.el
+5. Clone profiles
+6. Follow all instructions before the reconfigure command
+7. Update configuration.scm for new hardware (reference /etc/config.scm)
+8. Run reconfigure command
