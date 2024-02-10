@@ -34,6 +34,9 @@ Sudo is important because you want to use the user's path.
 3. Install Guix
 4. Restore .ssh and local.el
 5. Clone profiles
-6. Follow all instructions before the reconfigure command
-7. Update configuration.scm for new hardware (reference /etc/config.scm)
-8. Run reconfigure command
+6. Run clone command and ensure all directories have been cloned
+7. Restart so nonguix takes effect
+8. Follow all upgrade instructions before the reconfigure command
+9. Update configuration.scm for new hardware (reference /etc/config.scm)
+10. Run reconfigure command
+11. Sanity check StumpWM by booting openbox-session, running ~/bin/stumpwm-boot, and connecting Sly
