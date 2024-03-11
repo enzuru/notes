@@ -2,6 +2,10 @@
 
 ** Fix basic flymake warnings (require 'straight) etc
 
+** Immediately
+*** TODO Switch to Corfu
+*** TODO Review awesome-emacs
+
 ** Ensure Lispy works for Scheme, Common Lisp, and Clojure
 *** TODO C-1
 *** TODO C-2
