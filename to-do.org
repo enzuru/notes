@@ -4,6 +4,7 @@
 
 ** Immediately
 *** TODO Switch to Corfu
+*** TODO Switch to gptel: https://github.com/karthink/gptel
 *** TODO Review awesome-emacs
 
 ** Ensure Lispy works for Scheme, Common Lisp, and Clojure
