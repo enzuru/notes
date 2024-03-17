@@ -3,7 +3,6 @@
 ** Fix basic flymake warnings (require 'straight) etc
 
 ** Immediately
-*** TODO Switch to Corfu
 *** TODO Switch to gptel: https://github.com/karthink/gptel
 *** TODO Review awesome-emacs
 
