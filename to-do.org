@@ -27,7 +27,7 @@
 *** TODO eat terminal
 *** TODO consult-eglot, consult-notmuch
 *** TODO add editing support to kubernetes-mode
-*** TODO Switch to cape and corfu
+*** TODO use-package emacs for leftover config
 
 ** Maybe
 *** TODO Add further security features
