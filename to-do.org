@@ -3,17 +3,12 @@
 ** Fix basic flymake warnings (require 'straight) etc
 
 ** Immediately
-*** TODO Switch to gptel: https://github.com/karthink/gptel
-*** TODO Review awesome-emacs
+*** TODO Update to Emacs 30: https://www.emacswiki.org/emacs/EmacsThirtyHighlights
 
 ** Ensure Lispy works for Scheme, Common Lisp, and Clojure
 *** TODO C-1
 *** TODO C-2
 *** TODO e
-
-** Provide consistent keystrokes for each development environment
-*** TODO Documentation lookup (C-x C-d)
-*** TODO Definition lookup (C-x C-w)
 
 ** GNU
 *** TODO Improve cl-lib documentation and tests
@@ -24,7 +19,6 @@
 *** TODO Add forge
 *** TODO verb, curl-to-elisp, counsel-jq
 *** TODO code-review
-*** TODO eat terminal
 *** TODO consult-eglot, consult-notmuch
 *** TODO add editing support to kubernetes-mode
 *** TODO use-package emacs for leftover config
@@ -32,9 +26,6 @@
 ** Maybe
 *** TODO Add further security features
 *** TODO Spotify integration
-
-** Eventually
-*** TODO Switch to wayland
 
 ** Study
 *** TODO Read SICP
