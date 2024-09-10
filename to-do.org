@@ -12,12 +12,10 @@
 
 ** GNU
 *** TODO Improve cl-lib documentation and tests
-*** TODO Setup GNU Dockerfile
-*** TODO Setup GNU CI/CD
 
 ** Emacs
 *** TODO Add forge
-*** TODO verb, curl-to-elisp, counsel-jq
+*** TODO verb, curl-to-elisp
 *** TODO code-review
 *** TODO consult-eglot, consult-notmuch
 *** TODO add editing support to kubernetes-mode
