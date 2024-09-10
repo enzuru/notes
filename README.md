@@ -2,7 +2,7 @@
 
 This repository contains my live notes written in [Org mode](https://orgmode.org/) and [GNU Hyperbole](https://www.gnu.org/software/hyperbole/) regarding the projects that I am working on.
 
-These public notes are written using the [PARA method](https://www.buildingasecondbrain.com/para) whereas my private notes are written using the [Zettelkasten method](https://en.wikipedia.org/wiki/Zettelkasten).
+These public notes are written using the [PARA method](https://www.buildingasecondbrain.com/para) as Org files, whereas my private notes are written using the [Zettelkasten method](https://en.wikipedia.org/wiki/Zettelkasten) as Markdown files.
 
 As per the PARA method, this repo has `projects`, `areas`, and `resources`. The `archive` folder is omitted as it is provided by the git history.
 
