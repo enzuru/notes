@@ -14,6 +14,10 @@
   reboot
 #+END_SRC
 
+If you have to delete any service folders, be sure to recreate and chown them with the proper service user before booting the respective service.
+
+For Grafana, setting the default dashboard should be enough for anonymous access.
+
 *** Smoke testing
 **** View charts
 **** View logs
