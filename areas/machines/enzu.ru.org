@@ -1,8 +1,0 @@
-* enzu.ru
-
-My primary public server
-
-** Links
-
-- # <(ssh)>
-- # <(tramp)>
