@@ -1,30 +1,21 @@
 * To do list
 
-** Fix basic flymake warnings (require 'straight) etc
-
-** Immediately
-*** TODO Update to Emacs 30: https://www.emacswiki.org/emacs/EmacsThirtyHighlights
-
-** Ensure Lispy works for Scheme, Common Lisp, and Clojure
-*** TODO C-1
-*** TODO C-2
-*** TODO e
+** Linux
+*** TODO Compile and get compile-commands.json
+*** TODO First commit
 
 ** GNU
 *** TODO Improve cl-lib documentation and tests
 
-** Emacs
-*** TODO Add forge
+** .emacs.d
+*** TODO forge
 *** TODO verb, curl-to-elisp
 *** TODO code-review
 *** TODO consult-eglot, consult-notmuch
 *** TODO add editing support to kubernetes-mode
 *** TODO use-package emacs for leftover config
 
-** Maybe
-*** TODO Add further security features
-*** TODO Spotify integration
-
 ** Study
+*** TODO K&R
 *** TODO Read SICP
 *** TODO Read PAIP
