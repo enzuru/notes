@@ -4,9 +4,6 @@
 *** TODO Compile and get compile-commands.json
 *** TODO First commit
 
-** GNU
-*** TODO Improve cl-lib documentation and tests
-
 ** .emacs.d
 *** TODO forge
 *** TODO verb, curl-to-elisp
