@@ -13,5 +13,3 @@
 *** TODO cl-preloaded
 *** TODO cl-print
 *** TODO cl-macs
-
-Left off at cl-seq.el / cl-rassoc-if
