@@ -1,9 +1,17 @@
 * cl-lib
 
-** DONE cl-extra
-** TODO cl-generic
-** DONE cl-lib
-** TODO cl-macs
-** TODO cl-preloaded
-** TODO cl-print
-** TODO cl-seq
+* Soon
+
+*** DONE cl-extra
+*** DONE cl-lib
+*** DONE cl-seq
+
+* Skip
+
+*** TODO cl-seq trees
+*** TODO cl-generic
+*** TODO cl-preloaded
+*** TODO cl-print
+*** TODO cl-macs
+
+Left off at cl-seq.el / cl-rassoc-if
