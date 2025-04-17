@@ -11,6 +11,7 @@
 *** TODO consult-eglot, consult-notmuch
 *** TODO add editing support to kubernetes-mode
 *** TODO use-package emacs for leftover config
+https://batsov.com/articles/2025/04/17/using-use-package-the-right-way/
 
 ** Study
 *** TODO K&R
