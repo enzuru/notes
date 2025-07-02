@@ -2,4 +2,5 @@
 
 ** Writing
 ** GNU contributions
-** Functional programming study
+** Study functional programming
+** Study Portuguese
