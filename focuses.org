@@ -1,0 +1,5 @@
+* Focuses
+
+** Writing
+** GNU contributions
+** Functional programming study
