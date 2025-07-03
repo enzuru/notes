@@ -4,3 +4,4 @@
 ** GNU contributions
 ** Study functional programming
 ** Study Portuguese
+** Build brands

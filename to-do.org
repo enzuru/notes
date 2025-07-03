@@ -5,6 +5,7 @@
 *** TODO First commit
 
 ** .emacs.d
+*** TODO casual
 *** TODO use-package to set variables
 *** TODO forge
 *** TODO verb, curl-to-elisp
