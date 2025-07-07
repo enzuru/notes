@@ -5,4 +5,4 @@
 ** Study functional programming
 ** Study Portuguese
 ** Build brands
-** Next career step
+** Career development
