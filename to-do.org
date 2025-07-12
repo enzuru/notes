@@ -2,7 +2,6 @@
 
 ** .emacs.d
 *** TODO casual
-*** TODO use-package to set variables
 *** TODO get rid of flymake warnings
 *** TODO forge
 *** TODO verb, curl-to-elisp
