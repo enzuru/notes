@@ -1,8 +1,7 @@
 * Focuses
 
-** Writing
-** GNU contributions
-** Study functional programming
-** Study Portuguese
-** Build brands
-** Career development
+** Writer
+** Lisp hacker
+** Tech executive
+** Polyglot
+
