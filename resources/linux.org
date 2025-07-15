@@ -1,0 +1,10 @@
+* Linux
+
+To get LSP CCLS working on Eglot:
+
+#+BEGIN_SRC sh
+  guix environment linux
+  make -j9 CC=clang defconfig
+  make -j9 CC=clang
+  scripts/clang-tools/gen_compile_commands.py
+#+END_SRC
