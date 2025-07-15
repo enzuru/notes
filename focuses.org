@@ -1,7 +1,6 @@
 * Focuses
 
 ** Writer
-** Lisp hacker
+** GNU/Linux hacker
 ** Tech executive
 ** Polyglot
-
