@@ -1,4 +1,4 @@
-* Focuses
+* Nightly focuses
 
 ** Writer
 ** GNU/Linux hacker
