@@ -39,12 +39,12 @@ Create a folder with the patch (`/home/enzuru/src/linux-patch/custom-kernel.scm`
                                              "changes.patch"))))))))
 #+END_SRC
 
-Include (custom-kernel) in your config.scm and then:
+Include (custom-kernel) in your config.scm dependencies and then:
 #+BEGIN_SRC scheme
   (operating-system (kernel linux-with-patch))
 #+END_SRC
 
 Then run this command:
 #+BEGIN_SRC sh
-  sudo guix system reconfigure -L /home/enzuru/src/linux-patch
+  sudo guix system reconfigure -L /home/enzuru/src/linux-patch config.scm
 #+END_SRC
