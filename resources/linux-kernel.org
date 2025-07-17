@@ -1,0 +1,50 @@
+* Linux
+
+** LSP
+To get LSP CCLS working on Eglot:
+#+BEGIN_SRC sh
+  guix environment linux
+  make -j9 CC=clang defconfig
+  make -j9 CC=clang
+  scripts/clang-tools/gen_compile_commands.py
+#+END_SRC
+
+** Patch
+To patch the Linux kernel under Guix with your changes already staged:
+#+BEGIN_SRC sh
+git diff --cached > changes.patch
+#+END_SRC
+
+Create a folder with the patch (`/home/enzuru/src/linux-patch/custom-kernel.scm`) and a file like this:
+#+BEGIN_SRC scheme
+(define-module (custom-kernel)
+  #:use-module (gnu packages)
+  #:use-module (gnu packages linux)
+  #:use-module (nongnu packages linux)
+  #:use-module (guix packages)
+  #:use-module (guix download)
+  #:use-module (guix build-system)
+  #:use-module (guix gexp)
+  #:export (linux-with-ext4-strscpy))
+;; Define your custom kernel with the ext4 strscpy patch
+(define-public linux-with-ext4-strscpy
+  (package
+    (inherit linux) ;; Inheriting from nonguix's linux package
+    (name "linux-with-patch")
+    (source
+      (origin
+        (inherit (package-source linux))
+        (patches (append (origin-patches (package-source linux))
+                        (list (local-file "/home/enzuru/src/linux/changes.patch"
+                                          "changes.patch"))))))))
+#+END_SRC
+
+Include (custom-kernel) in your config.scm and then:
+#+BEGIN_SRC scheme
+  (operating-system (kernel linux-with-patch))
+#+END_SRC
+
+Then run this command:
+#+BEGIN_SRC sh
+sudo guix system reconfigure -L /home/enzuru/src/linux-patch  
+#+END_SRC
