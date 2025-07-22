@@ -1,6 +1,7 @@
 * To do list
 
 ** .emacs.d
+*** TODO make guix-about the boot page
 *** TODO casual
 *** TODO get rid of flymake warnings
 *** TODO forge
