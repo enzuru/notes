@@ -1,6 +1,0 @@
-* Nightly focuses
-
-** Writer
-** GNU/Linux hacker
-** Tech executive
-** Polyglot
