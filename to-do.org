@@ -1,13 +1,5 @@
 * To do list
 
 ** .emacs.d
-*** TODO make guix-about the boot page
-*** TODO casual
 *** TODO get rid of flymake warnings
-*** TODO forge
-*** TODO verb, curl-to-elisp
-*** TODO code-review
-*** TODO consult-eglot, consult-notmuch
-*** TODO add editing support to kubernetes-mode
 *** TODO use-package emacs for leftover config
-https://batsov.com/articles/2025/04/17/using-use-package-the-right-way/
