@@ -1,0 +1,6 @@
+* Joseki
+
+** TODO Remove tests
+** TODO Choose color and handicap
+** TODO Add some preferences
+** TODO Scale board pieces by window size
