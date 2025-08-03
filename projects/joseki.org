@@ -4,3 +4,17 @@
 ** TODO Choose color and handicap
 ** TODO Add some preferences
 ** TODO Scale board pieces by window size
+
+** Product hypotheses
+*** Single player or multiplayer?
+**** Reaching out to the community
+*** How to represent Golang using GHIG?
+*** Accessibility
+
+** Announce
+*** r/Linux
+*** r/Vala
+*** r/GNOME
+*** r/Baduk
+*** Discourse
+*** Matrix
