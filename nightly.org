@@ -1,5 +1,5 @@
 * Nightly schedule
 
-** Check email and GitHub
+** Code
 ** Write
 ** Practice Portuguese

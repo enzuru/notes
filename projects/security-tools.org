@@ -1,0 +1,37 @@
+* Security tools
+
+Security tools that I could write Vala apps for.
+
+** Network Security & Analysis
+
+** nmap - While there are GUI frontends like Zenmap, most serious users prefer the CLI for its full feature set and scriptability
+** tcpdump - Wireshark exists for packet analysis, but tcpdump's real-time filtering and lightweight nature make the CLI irreplaceable
+** netcat (nc) - No meaningful GUI exists for this versatile networking swiss army knife
+** masscan - Ultra-fast port scanner with minimal GUI options
+
+** Vulnerability Assessment
+
+** nikto - Web vulnerability scanner with very limited GUI frontends
+** dirb/dirbuster - Directory brute-forcing tools (dirbuster has a Java GUI but it's clunky)
+** sqlmap - SQL injection testing tool with no substantial GUI
+** hydra - Password brute-forcing tool with only basic GUI attempts
+
+** Forensics & Analysis
+
+** volatility - Memory analysis framework that's primarily CLI-driven
+** binwalk - Firmware analysis tool with no proper GUI
+** strings - Binary analysis utility that's inherently CLI-based
+** hexdump/xxd - Hex editors exist, but these CLI tools are often preferred for scripting
+
+** System Security
+
+** lynis - Security auditing tool that's purely command-line
+** chkrootkit/rkhunter - Rootkit detection tools with minimal GUI support
+** aide - File integrity checker that's CLI-focused
+** fail2ban - Intrusion prevention system managed entirely via CLI/config files
+
+** Cryptography
+
+** hashcat - Password recovery tool with limited GUI options
+** john (John the Ripper) - Password cracking tool that's primarily CLI
+** openssl - Cryptographic toolkit that's fundamentally CLI-based
