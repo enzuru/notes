@@ -23,7 +23,7 @@ To patch the Linux kernel with your changes already staged:
   {
     boot.kernelPackages = pkgs.linuxPackages.extend (self: super: {
       kernel = super.kernel.overrideAttrs (oldAttrs: {
-        src = /path/to/your/linux/source/tree;  # Point to your patched source
+        src = pkgs.lib.cleanSource /path/to/your/linux/source/tree;  # Point to your patched source
         # Or if you want to apply patches to the existing kernel:
         patches = (oldAttrs.patches or []) ++ [
           /path/to/your/patch/file.patch
@@ -34,6 +34,8 @@ To patch the Linux kernel with your changes already staged:
     # Rest of your configuration...
   }
 #+END_SRC
+
+You may need to do "make mrproper" to clean up the dir before using on Nix.
 
 ** Guix
 *** LSP
