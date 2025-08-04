@@ -1,9 +1,19 @@
 * Joseki
 
-** TODO Remove tests
-** TODO Choose color and handicap
-** TODO Add some preferences
-** TODO Scale board pieces by window size
+** Single player
+*** DONE Remove tests
+CLOSED: [2025-08-03 Sun 21:23]
+*** DONE Scale board pieces by window size
+CLOSED: [2025-08-03 Sun 21:28]
+*** DONE Choose color and handicap
+CLOSED: [2025-08-03 Sun 22:00]
+*** DONE Add Nix flake for running project
+CLOSED: [2025-08-03 Sun 22:15]
+*** TODO Add some preferences
+*** TODO Refactor code before adding multiplayer
+
+** Multiplayer
+*** TODO Map out all API features
 
 ** Product hypotheses
 *** Single player or multiplayer?
