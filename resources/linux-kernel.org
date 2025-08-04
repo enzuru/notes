@@ -1,7 +1,42 @@
 * Linux
 
-** LSP
-To get LSP CCLS working on Eglot:
+** Patch
+To patch the Linux kernel with your changes already staged:
+#+BEGIN_SRC sh
+  git diff --cached > changes.patch
+#+END_SRC
+
+** Nix
+*** LSP
+#+BEGIN_SRC sh
+  nix develop nixpkgs#linux
+  make -j9 defconfig
+  make -j9
+  scripts/clang-tools/gen_compile_commands.py
+#+END_SRC
+
+*** Booting
+#+BEGIN_SRC nix
+  # In your /etc/nixos/configuration.nix or a separate module
+  { config, pkgs, ... }:
+
+  {
+    boot.kernelPackages = pkgs.linuxPackages.extend (self: super: {
+      kernel = super.kernel.overrideAttrs (oldAttrs: {
+        src = /path/to/your/linux/source/tree;  # Point to your patched source
+        # Or if you want to apply patches to the existing kernel:
+        patches = (oldAttrs.patches or []) ++ [
+          /path/to/your/patch/file.patch
+        ];
+      });
+    });
+
+    # Rest of your configuration...
+  }
+#+END_SRC
+
+** Guix
+*** LSP
 #+BEGIN_SRC sh
   guix environment linux
   make -j9 CC=clang defconfig
@@ -9,12 +44,7 @@ To get LSP CCLS working on Eglot:
   scripts/clang-tools/gen_compile_commands.py
 #+END_SRC
 
-** Patch
-To patch the Linux kernel under Guix with your changes already staged:
-#+BEGIN_SRC sh
-  git diff --cached > changes.patch
-#+END_SRC
-
+*** Booting
 Create a folder with the patch (`/home/enzuru/src/linux-patch/custom-kernel.scm`) and a file like this:
 #+BEGIN_SRC scheme
   (define-module (custom-kernel)
