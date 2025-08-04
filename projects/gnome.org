@@ -1,0 +1,7 @@
+* GNOME
+
+** Product management
+*** Accessibility
+** Coding
+** Infrastructure
+** Writing
