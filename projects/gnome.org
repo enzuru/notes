@@ -1,8 +1,13 @@
 * GNOME
 
-** Product management
-*** Accessibility
-** Coding
-** Infrastructure
-** Security
-** Writing
+* Skills
+*** Product management
+**** Accessibility
+*** Coding
+*** Infrastructure
+*** Security
+*** Writing
+
+** Apps
+*** TODO Joseki
+*** TODO tldr
