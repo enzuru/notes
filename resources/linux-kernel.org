@@ -1,4 +1,4 @@
-* Linux
+* Linux kernel
 
 ** Patch
 To patch the Linux kernel with your changes already staged:
