@@ -1,5 +1,0 @@
-* Common Lisp
-
-** Links
-
-- # <(Practical Common Lisp)>

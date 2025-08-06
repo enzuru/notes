@@ -1,7 +1,0 @@
-
-"common-lisp.org"
-("Practical_Common_Lisp" nil nil eval-elisp ((eww "http://www.gigamonkeys.com/book")) "enzuru@ibook.enzu.ru" "20191208:08:49:51" nil nil)
-
-"openbsd.org"
-("faq" nil nil eval-elisp ((eww "https://www.openbsd.org/faq/faq5.html")) "enzuru@ibook.enzu.ru" "20191208:08:34:14" "enzuru" "20191208:08:37:11")
-("man" nil nil eval-elisp ((man "release")) "enzuru@ibook.enzu.ru" "20191208:08:29:38" "enzuru" "20191208:08:30:13")
