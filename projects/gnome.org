@@ -1,6 +1,6 @@
 * GNOME
 
-* Skills
+** Skills
 *** Product management
 **** Accessibility
 *** Coding
