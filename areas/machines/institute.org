@@ -1,8 +1,0 @@
-* The Institute
-
-OpenBSD pubnix tilde
-
-** Links
-
-- # <(ssh)>
-- # <(tramp)>

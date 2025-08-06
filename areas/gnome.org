@@ -9,5 +9,5 @@
 *** Writing
 
 ** Apps
-*** TODO [[./joseki.org][Joseki]]
+*** TODO [[../projects/joseki.org][Joseki]]
 *** TODO tldr
