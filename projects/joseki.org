@@ -9,9 +9,9 @@ CLOSED: [2025-08-03 Sun 21:28]
 CLOSED: [2025-08-03 Sun 22:00]
 *** DONE Add Nix flake for running project
 CLOSED: [2025-08-03 Sun 22:15]
+*** TODO Refactor code before adding multiplayer
 *** TODO Switch to Blueprint
 *** TODO Add some preferences
-*** TODO Refactor code before adding multiplayer
 
 ** Multiplayer
 *** TODO Map out all API features
