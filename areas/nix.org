@@ -1,0 +1,27 @@
+* Nixa
+
+** benreesman
+
+Nix is still waiting for its GitHub moment. It's possible to live a strictly better life (as an individual or company) via Nix and NixOS but there's still a ton of lore and inside baseball that requires a pressing need to justify learning it all. If there's a serious Nix person in your company or friend group it's time, otherwise be ready for a learning curve that's only worth it if you have one of the problems it solves (if Docker is starting to be a weird init system or devs are finding excuses to go around it). It's the choice of people who can't compromise on anything (Anduril, more and more trading shops, shit like that).
+
+Nix is in a bit of a split/argument/fork-prone thing at the moment but it looks like this will settle into a practical/purist thing where everyone can be happy, so go in knowing which crowd is your people.
+
+I'm not a purist so listen to one of them if you are. That said:
+
+- flakes aren't optional or experimental, they're the default, its a small clique holding it up for years and its getting forked around by everyone serious
+
+- flake parts is looking like a lock for the de facto flake standard, something else might come along but the leet stuff is congregating around it
+
+- Cachix devenv is a good gateway drug: its better than Docker and easier to graduate from when it gets serious on that component
+
+- nix-ld and FHS envs aren't a sin, they fix most all the friction bilugs and should be the default design, I overlay the shebang thing and all the unfree restrictions and all of it: the incompatible by design people are aging out, this will all work flawlessly in a year or two and you can do it today but its inside baseball
+
+If you need to support Mac and Linux without the limitations of a strict all-OCI flow it's your best option, if you need a chance in hell against serious supply-chain attacks its your best starting point. If you need to run on a mix of metal and cloud and/or double-virtualizing is an issue its The Way.
+
+The best super accessible resource to go from zero to "holy shit computers can do that" is vimjoyer's YouTube.
+
+Use sops.nix and your secrets management is solved. Also by Mic92 is nixos-generators, that is basically infinitely portable to anything. juspay's GitHub, srid's GitHub, pretty much all the nixos-asia stuff is galaxy brain next level. It all works great on MacOS if you're not over it yet with the telemetry.
+
+(sidebar: telemetry is your biggest computer problem now and your phone addiction is part of the telemetry deal. Linux and Graphene and NextDNS and Proton and stuff are worth it even for Grandma finally. I'm glad the purists do their thing, its an act of service).
+
+https://news.ycombinator.com/item?id=44098605
