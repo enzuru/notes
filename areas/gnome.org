@@ -11,3 +11,4 @@
 ** Apps
 *** TODO [[../projects/joseki.org][Joseki]]
 *** TODO tldr
+*** TODO offline documentation
