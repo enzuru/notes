@@ -1,5 +1,5 @@
 ** Emacs
 
 *** .emacs.d
-**** TODO get rid of flymake warnings
-**** TODO use-package emacs for leftover config
+**** Get rid of flymake warnings
+**** use-package emacs for leftover config
