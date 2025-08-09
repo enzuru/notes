@@ -1,5 +1,0 @@
-* To do list
-
-** .emacs.d
-*** TODO get rid of flymake warnings
-*** TODO use-package emacs for leftover config
