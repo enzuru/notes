@@ -1,0 +1,3 @@
+* Accessibility
+
+** TODO Design study for assessing GNOME accessibility
