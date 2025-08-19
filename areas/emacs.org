@@ -3,3 +3,4 @@
 *** .emacs.d
 **** Get rid of flymake warnings
 **** use-package emacs for leftover config
+**** use-package file lang extensions
