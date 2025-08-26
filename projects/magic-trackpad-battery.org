@@ -1,0 +1,27 @@
+* Magic Trackpad battery
+
+Get Apple's Magic Trackpad battery life to report correctly.
+
+[[../../linux/drivers/hid/hid-magicmouse.c][hid-magicmouse.c]]
+
+** TODO Find out where battery life is
+
+:LOGBOOK:
+CLOCK: [2025-08-26 Tue 12:00]--[2025-08-26 Tue 14:11] =>  2:11
+:END:
+
+*** Wireshark packets
+
+#+BEGIN_SRC hexdump
+0000   32 20 12 00 0e 00 41 00 a1 31
+       10 84 5b 30 7e 68
+0010   93 6b 65 1a 17 eb
+#+END_SRC
+
+#+BEGIN_SRC hexdump
+0000   32 20 1b 00 17 00 41 00 a1 31
+       28 e2 4f bf 5b e2
+0010   8b 53 6a 1c 22 81 38 bd 4e 8c 61 78 20 0f 83
+#+END_SRC
+
+** TODO Find out how to report battery life

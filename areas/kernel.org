@@ -80,7 +80,3 @@ Then run this command:
 #+BEGIN_SRC sh
   sudo guix system reconfigure -L /home/enzuru/src/linux-patch config.scm
 #+END_SRC
-
-** Tasks
-*** TODO Fix Magic Trackpad battery life
-[[../../linux/drivers/hid/hid-magicmouse.c][hid-magicmouse.c]]
