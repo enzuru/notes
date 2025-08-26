@@ -14,4 +14,5 @@
 *** offline documentation
 
 ** Infrastructure
-*** TODO S3 bucket TF
+*** DONE S3 bucket TF
+CLOSED: [2025-08-25 Mon 21:01]

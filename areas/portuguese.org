@@ -1,3 +1,7 @@
 * Portuguese
 
 ** PracticePortuguese.com
+*** 8/25/2025 :flashcards:
+:LOGBOOK:
+CLOCK: [2025-08-25 Mon 21:09]--[2025-08-25 Mon 21:57] =>  0:48
+:END:
