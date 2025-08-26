@@ -83,3 +83,4 @@ Then run this command:
 
 ** Tasks
 *** TODO Fix Magic Trackpad battery life
+[[../../linux/drivers/hid/hid-magicmouse.c][hid-magicmouse.c]]
