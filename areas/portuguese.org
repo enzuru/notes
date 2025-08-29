@@ -1,14 +1,13 @@
 * Portuguese
 
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2025-08-28 Thu 20:17]
-| Headline       | Time    |      |
-|----------------+---------+------|
-| *Total time*   | *11:45* |      |
-|----------------+---------+------|
-| Portuguese     | 11:45   |      |
-| \_  Flashcards |         | 4:00 |
-| \_  A1         |         | 7:45 |
+#+CAPTION: Clock summary at [2025-08-28 Thu 20:25]
+| Headline     | Time    |       |
+|--------------+---------+-------|
+| *Total time* | *11:45* |       |
+|--------------+---------+-------|
+| Portuguese   | 11:45   |       |
+| \_  A1       |         | 11:45 |
 #+END:
 
 Mostly done using PracticePortuguese.com
@@ -19,14 +18,14 @@ Mostly done using PracticePortuguese.com
 - B1: 350-400 hours
 - B2: 500-600 hours
 
-** Flashcards
+** A1
+*** Flashcards
 CLOCK: [2025-08-21 Thu 21:09]--[2025-08-21 Thu 21:57] =>  0:48
 CLOCK: [2025-08-22 Fri 21:09]--[2025-08-22 Fri 21:57] =>  0:48
 CLOCK: [2025-08-23 Sat 21:09]--[2025-08-23 Sat 21:57] =>  0:48
 CLOCK: [2025-08-24 Sun 21:09]--[2025-08-24 Sun 21:57] =>  0:48
 CLOCK: [2025-08-25 Mon 21:09]--[2025-08-25 Mon 21:57] =>  0:48
 
-** A1
 *** Introduction
 :LOGBOOK:
 CLOCK: [2025-06-01 Sun 22:00]--[2025-06-01 Sun 22:10] =>  0:10
