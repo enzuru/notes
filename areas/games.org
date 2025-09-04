@@ -2,6 +2,12 @@
 
 ** Ship of Harkinian
 *** Compile
+*** DONE Nix fixes
+CLOSED: [2025-09-03 Wed 21:42]
+:LOGBOOK:
+CLOCK: [2025-09-03 Wed 20:00]--[2025-09-03 Wed 21:42] =>  1:42
+:END:
+*** TODO Write cool feature
 
 ** Ship of Harkinian 2
 *** Compile
