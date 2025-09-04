@@ -1,13 +1,13 @@
 * Portuguese
 
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2025-08-28 Thu 20:25]
+#+CAPTION: Clock summary at [2025-09-03 Wed 20:19]
 | Headline     | Time    |       |
 |--------------+---------+-------|
-| *Total time* | *11:45* |       |
+| *Total time* | *12:15* |       |
 |--------------+---------+-------|
-| Portuguese   | 11:45   |       |
-| \_  A1       |         | 11:45 |
+| Portuguese   | 12:15   |       |
+| \_  A1       |         | 12:15 |
 #+END:
 
 Mostly done using PracticePortuguese.com
