@@ -1,6 +1,6 @@
 * S3 Private
 
-Create a private S3 bucket.
+Write Terraform to create a private S3 bucket for GNOME.
 
 :LOGBOOK:
 CLOCK: [2025-08-19 Tue 12:00]--[2025-08-19 Tue 20:00] =>  8:00
