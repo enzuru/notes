@@ -21,4 +21,4 @@ CLOCK: [2025-08-26 Tue 12:00]--[2025-08-26 Tue 14:11] =>  2:11
 0010   8b 53 6a 1c 22 81 38 bd 4e 8c 61 78 20 0f 83
 #+END_SRC
 
-** TODO Find out how to report battery life
+** Find out how to report battery life

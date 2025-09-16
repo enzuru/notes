@@ -1,0 +1,7 @@
+* S3 Private
+
+Create a private S3 bucket.
+
+:LOGBOOK:
+CLOCK: [2025-08-19 Tue 12:00]--[2025-08-19 Tue 20:00] =>  8:00
+:END:
