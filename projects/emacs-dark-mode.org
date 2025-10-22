@@ -1,0 +1,24 @@
+* Emacs dark mode
+
+Automatically detect dark mode for Emacs GTK.
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2025-10-21 Tue 20:46]
+| Headline          | Time   |      |
+|-------------------+--------+------|
+| *Total time*      | *1:10* |      |
+|-------------------+--------+------|
+| Emacs dark mode   | 1:10   |      |
+| \_  Compile emacs |        | 0:09 |
+| \_  Add dark mode |        | 1:01 |
+#+END:
+
+** TODO Compile emacs
+:LOGBOOK:
+CLOCK: [2025-10-21 Tue 16:46]--[2025-10-21 Tue 16:55] =>  0:09
+:END:
+
+** TODO Add dark mode
+:LOGBOOK:
+CLOCK: [2025-10-21 Tue 19:44]--[2025-10-21 Tue 20:45] =>  1:01
+:END:
