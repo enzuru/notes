@@ -10,9 +10,6 @@
 
 ** Apps
 *** [[../projects/joseki.org][Joseki]]
-*** tldr
-*** offline documentation
 
 ** Infrastructure
-*** DONE S3 bucket TF
-CLOSED: [2025-08-25 Mon 21:01]
+*** [[../archive/gnome-s3-private.org][s3-private]]
