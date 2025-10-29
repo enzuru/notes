@@ -1,4 +1,0 @@
-* Accessibility
-
-** Design study for assessing GNOME accessibility
-** TODO GNOME Calendar
