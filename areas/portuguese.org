@@ -10,8 +10,6 @@
 | \_  A1       |         | 15:15 |
 #+END:
 
-Mostly done using PracticePortuguese.com
-
 ** Timelines
 - A1: 60-100 hours
 - A2: 180-200 hours
