@@ -1,0 +1,15 @@
+* GNOME
+
+** Apps
+*** [[../projects/joseki.org][Joseki]]
+
+** Infrastructure
+*** [[../archive/gnome-s3-private.org][s3-private]]
+
+** Skills
+*** Product management
+**** Accessibility
+*** Coding
+*** Infrastructure
+*** Security
+*** Writing

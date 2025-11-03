@@ -1,6 +1,11 @@
 * Nix
 
-** benreesman
+** Projects
+*** [[../projects/port-manuals-to-nix.org][Port Manuals]]
+*** [[../projects/port-workbench-to-nix.org][Port Workbench]]
+
+** Notes
+*** benreesman
 
 Nix is still waiting for its GitHub moment. It's possible to live a strictly better life (as an individual or company) via Nix and NixOS but there's still a ton of lore and inside baseball that requires a pressing need to justify learning it all. If there's a serious Nix person in your company or friend group it's time, otherwise be ready for a learning curve that's only worth it if you have one of the problems it solves (if Docker is starting to be a weird init system or devs are finding excuses to go around it). It's the choice of people who can't compromise on anything (Anduril, more and more trading shops, shit like that).
 

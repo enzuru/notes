@@ -13,12 +13,14 @@ Automatically detect dark mode for Emacs GTK.
 | \_  Add dark mode |        | 4:15 |
 #+END:
 
-** TODO Compile emacs
+** DONE Compile emacs
+CLOSED: [2025-10-21 Tue 16:55]
 :LOGBOOK:
 CLOCK: [2025-10-21 Tue 16:46]--[2025-10-21 Tue 16:55] =>  0:09
 :END:
 
-** TODO Add dark mode
+** DONE Add dark mode
+CLOSED: [2025-10-21 Tue 20:45]
 :LOGBOOK:
 CLOCK: [2025-10-25 Sat 21:00]--[2025-10-25 Sat 22:44] =>  1:44
 CLOCK: [2025-10-22 Wed 21:00]--[2025-10-22 Wed 22:30] =>  1:30

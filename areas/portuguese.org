@@ -1,13 +1,13 @@
 * Portuguese
 
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2025-09-03 Wed 20:19]
+#+CAPTION: Clock summary at [2025-11-02 Sun 20:18]
 | Headline     | Time    |       |
 |--------------+---------+-------|
-| *Total time* | *12:15* |       |
+| *Total time* | *15:15* |       |
 |--------------+---------+-------|
-| Portuguese   | 12:15   |       |
-| \_  A1       |         | 12:15 |
+| Portuguese   | 15:15   |       |
+| \_  A1       |         | 15:15 |
 #+END:
 
 Mostly done using PracticePortuguese.com
@@ -21,8 +21,8 @@ Mostly done using PracticePortuguese.com
 ** A1
 *** Flashcards
 :LOGBOOK:
-CLOCK: [2025-10-31 Fri 19:00]--[2025-10-31 Fri 20:00] =>  0:00
-CLOCK: [2025-10-30 Thu 19:00]--[2025-10-30 Thu 20:00] =>  0:00
+CLOCK: [2025-10-31 Fri 19:00]--[2025-10-31 Fri 20:00] =>  1:00
+CLOCK: [2025-10-30 Thu 19:00]--[2025-10-30 Thu 20:00] =>  1:00
 CLOCK: [2025-08-25 Mon 21:00]--[2025-08-25 Mon 22:00] =>  1:00
 CLOCK: [2025-08-24 Sun 21:00]--[2025-08-24 Sun 22:00] =>  1:00
 CLOCK: [2025-08-23 Sat 21:00]--[2025-08-23 Sat 22:00] =>  1:00
@@ -30,15 +30,16 @@ CLOCK: [2025-08-22 Fri 21:00]--[2025-08-22 Fri 22:00] =>  1:00
 CLOCK: [2025-08-21 Thu 21:00]--[2025-08-21 Thu 22:00] =>  1:00
 :END:
 
-
-*** Introduction
+*** DONE Introduction
+CLOSED: [2025-06-03 Tue 22:10]
 :LOGBOOK:
 CLOCK: [2025-06-01 Sun 22:00]--[2025-06-01 Sun 22:10] =>  0:10
 CLOCK: [2025-06-02 Mon 22:00]--[2025-06-02 Mon 22:10] =>  0:10
 CLOCK: [2025-06-03 Tue 22:00]--[2025-06-03 Tue 22:10] =>  0:10
 :END:
 
-*** Greetings
+*** DONE Greetings
+CLOSED: [2025-06-16 Mon 22:10]
 :LOGBOOK:
 CLOCK: [2025-06-07 Sat 22:00]--[2025-06-07 Sat 22:10] =>  0:10
 CLOCK: [2025-06-08 Sun 22:00]--[2025-06-08 Sun 22:10] =>  0:10
@@ -52,7 +53,8 @@ CLOCK: [2025-06-15 Sun 22:00]--[2025-06-15 Sun 22:10] =>  0:10
 CLOCK: [2025-06-16 Mon 22:00]--[2025-06-16 Mon 22:10] =>  0:10
 :END:
 
-*** Nouns
+*** DONE Nouns
+CLOSED: [2025-06-21 Sat 22:10]
 :LOGBOOK:
 CLOCK: [2025-06-17 Tue 22:00]--[2025-06-17 Tue 22:10] =>  0:10
 CLOCK: [2025-06-18 Wed 22:00]--[2025-06-18 Wed 22:10] =>  0:10
@@ -61,7 +63,8 @@ CLOCK: [2025-06-20 Fri 22:00]--[2025-06-20 Fri 22:10] =>  0:10
 CLOCK: [2025-06-21 Sat 22:00]--[2025-06-21 Sat 22:10] =>  0:10
 :END:
 
-*** Introduction to Verbs
+*** DONE Introduction to Verbs
+CLOSED: [2025-07-12 Sat 22:10]
 :LOGBOOK:
 CLOCK: [2025-07-06 Sun 22:00]--[2025-07-06 Sun 22:10] =>  0:10
 CLOCK: [2025-07-07 Mon 22:00]--[2025-07-07 Mon 22:10] =>  0:10
@@ -72,7 +75,8 @@ CLOCK: [2025-07-11 Fri 22:00]--[2025-07-11 Fri 22:10] =>  0:10
 CLOCK: [2025-07-12 Sat 22:00]--[2025-07-12 Sat 22:10] =>  0:10
 :END:
 
-*** Basic grammar
+*** DONE Basic grammar
+CLOSED: [2025-07-19 Sat 22:10]
 :LOGBOOK:
 CLOCK: [2025-07-13 Sun 22:00]--[2025-07-13 Sun 22:10] =>  0:10
 CLOCK: [2025-07-14 Mon 22:00]--[2025-07-14 Mon 22:10] =>  0:10
@@ -83,7 +87,8 @@ CLOCK: [2025-07-18 Fri 22:00]--[2025-07-18 Fri 22:10] =>  0:10
 CLOCK: [2025-07-19 Sat 22:00]--[2025-07-19 Sat 22:10] =>  0:10
 :END:
 
-*** Introduce yourself
+*** DONE Introduce yourself
+CLOSED: [2025-07-23 Wed 22:10]
 :LOGBOOK:
 CLOCK: [2025-07-20 Sun 22:00]--[2025-07-20 Sun 22:10] =>  0:10
 CLOCK: [2025-07-21 Mon 22:00]--[2025-07-21 Mon 22:10] =>  0:10
@@ -91,7 +96,8 @@ CLOCK: [2025-07-22 Tue 22:00]--[2025-07-22 Tue 22:10] =>  0:10
 CLOCK: [2025-07-23 Wed 22:00]--[2025-07-23 Wed 22:10] =>  0:10
 :END:
 
-*** Likes and dislikes
+*** DONE Likes and dislikes
+CLOSED: [2025-08-07 Thu 22:10]
 :LOGBOOK:
 CLOCK: [2025-08-03 Sun 22:00]--[2025-08-03 Sun 22:10] =>  0:10
 CLOCK: [2025-08-04 Mon 22:00]--[2025-08-04 Mon 22:10] =>  0:10
@@ -100,7 +106,8 @@ CLOCK: [2025-08-06 Wed 22:00]--[2025-08-06 Wed 22:10] =>  0:10
 CLOCK: [2025-08-07 Thu 22:00]--[2025-08-07 Thu 22:10] =>  0:10
 :END:
 
-*** Informal you and formal you
+*** DONE Informal you and formal you
+CLOSED: [2025-09-02 Tue 03:10]
 :LOGBOOK:
 CLOCK: [2025-08-28 Thu 19:40]--[2025-08-28 Thu 19:55] =>  0:15
 CLOCK: [2025-08-27 Wed 22:03]--[2025-08-27 Wed 22:13] =>  0:10
@@ -110,7 +117,8 @@ CLOCK: [2025-08-24 Sun 22:03]--[2025-08-24 Sun 22:13] =>  0:10
 CLOCK: [2025-09-02 Tue 03:00]--[2025-09-02 Tue 03:10] =>  0:10
 :END:
 
-*** Common Verbs 1
+*** DONE Common Verbs 1
+CLOSED: [2025-09-03 Wed 08:10]
 :LOGBOOK:
 CLOCK: [2025-09-02 Tue 04:00]--[2025-09-02 Tue 04:10] =>  0:10
 CLOCK: [2025-09-03 Wed 08:00]--[2025-09-03 Wed 08:10] =>  0:10

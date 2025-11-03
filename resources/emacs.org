@@ -1,0 +1,7 @@
+* GNU Emacs
+
+** Areas
+*** [[../areas/lispy.org][Lispy]]
+
+** Projects
+*** [[../archive/emacs-dark-mode.org][Dark mode]]

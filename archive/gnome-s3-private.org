@@ -2,6 +2,18 @@
 
 Write Terraform to create a private S3 bucket for GNOME.
 
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2025-11-02 Sun 19:55]
+| Headline            | Time   |      |
+|---------------------+--------+------|
+| *Total time*        | *8:00* |      |
+|---------------------+--------+------|
+| S3 Private          | 8:00   |      |
+| \_  Write Terraform |        | 8:00 |
+#+END:
+
+** DONE Write Terraform
+CLOSED: [2025-08-19 Tue 20:00]
 :LOGBOOK:
 CLOCK: [2025-08-19 Tue 12:00]--[2025-08-19 Tue 20:00] =>  8:00
 :END:

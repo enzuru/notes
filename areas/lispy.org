@@ -1,0 +1,23 @@
+** Lispy
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2025-11-02 Sun 19:56]
+| Headline     | Time   |      |
+|--------------+--------+------|
+| *Total time* | *1:00* |      |
+|--------------+--------+------|
+| \_  Emacs    |        | 1:00 |
+#+END:
+
+*** .emacs.d
+**** Get rid of flymake warnings
+**** use-package emacs for leftover config
+**** use-package file lang extensions
+
+*** Lispy
+:LOGBOOK:
+CLOCK: [2025-10-27 Mon 21:00]--[2025-10-27 Mon 22:00] =>  1:00
+:END:
+
+*** Projects
+**** [[../archive/

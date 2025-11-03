@@ -1,4 +1,4 @@
-* Magic Trackpad battery
+* Magic Trackpad battery reporting
 
 Get Apple's Magic Trackpad battery life to report correctly.
 

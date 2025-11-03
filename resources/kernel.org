@@ -1,13 +1,16 @@
 * Linux kernel
 
-** Patch
+** Projects
+*** [[../projects/magic-trackpad-battery.org][Apple Magic Trackpad battery reporting]]
+
+** Patching
 To patch the Linux kernel with your changes already staged:
 #+BEGIN_SRC sh
   git diff --cached > changes.patch
 #+END_SRC
 
-** Nix
-*** LSP
+*** Nix
+**** LSP
 #+BEGIN_SRC sh
   nix develop nixpkgs#linux
   make -j9 defconfig
@@ -15,7 +18,7 @@ To patch the Linux kernel with your changes already staged:
   scripts/clang-tools/gen_compile_commands.py
 #+END_SRC
 
-*** Booting
+**** Booting
 #+BEGIN_SRC nix
   # In your /etc/nixos/configuration.nix or a separate module
   { config, pkgs, ... }:
@@ -37,8 +40,8 @@ To patch the Linux kernel with your changes already staged:
 
 You may need to do "make mrproper" to clean up the dir before using on Nix.
 
-** Guix
-*** LSP
+*** Guix
+**** LSP
 #+BEGIN_SRC sh
   guix environment linux
   make -j9 CC=clang defconfig
@@ -46,7 +49,7 @@ You may need to do "make mrproper" to clean up the dir before using on Nix.
   scripts/clang-tools/gen_compile_commands.py
 #+END_SRC
 
-*** Booting
+**** Booting
 Create a folder with the patch (`/home/enzuru/src/linux-patch/custom-kernel.scm`) and a file like this:
 #+BEGIN_SRC scheme
   (define-module (custom-kernel)

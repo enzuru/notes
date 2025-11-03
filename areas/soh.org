@@ -1,4 +1,0 @@
-* Ship of Harkinian
-
-** [[../archive/soh-fix-nixos.org][Fix NixOS build]]
-** TODO Write cool feature
