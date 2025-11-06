@@ -4,4 +4,4 @@
 *** [[../areas/lispy.org][Lispy]]
 
 ** Projects
-*** [[../archive/emacs-dark-mode.org][Dark mode]]
+*** [[../projects/emacs-dark-mode.org][Dark mode]]
