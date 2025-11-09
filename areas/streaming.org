@@ -9,3 +9,21 @@ CLOSED: [2025-11-05 Wed 22:27]
 CLOSED: [2025-11-05 Wed 22:27]
 *** DONE Larger fonts
 CLOSED: [2025-11-05 Wed 22:27]
+
+** DONE dark-mode-functions
+CLOSED: [2025-11-08 Sat 21:20]
+*** DONE Increase mic volume
+CLOSED: [2025-11-08 Sat 21:20]
+*** DONE More careful about visibility
+CLOSED: [2025-11-08 Sat 21:20]
+*** DONE Increase screen scale to 125%
+CLOSED: [2025-11-08 Sat 21:20]
+
+** DONE desktop-theme-set-functions
+CLOSED: [2025-11-08 Sat 22:53]
+*** DONE Increase music by a small amount
+CLOSED: [2025-11-08 Sat 22:53]
+*** DONE Increase scale to 150%
+CLOSED: [2025-11-08 Sat 22:53]
+*** DONE No more barber beats trash
+CLOSED: [2025-11-08 Sat 22:53]

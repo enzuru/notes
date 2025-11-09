@@ -33,3 +33,15 @@ CLOSED: [2025-11-05 Wed 22:29]
 :LOGBOOK:
 CLOCK: [2025-11-05 Wed 21:15]--[2025-11-05 Wed 22:15] => 1:00
 :END:
+
+** DONE Move dark mode toggling to separate thread
+CLOSED: [2025-11-06 Thu 22:29]
+:LOGBOOK:
+CLOCK: [2025-11-06 Thu 21:15]--[2025-11-06 Thu 22:15] => 1:00
+:END:
+
+** DONE Add toolkit theme variable
+CLOSED: [2025-11-08 Sat 22:29]
+:LOGBOOK:
+CLOCK: [2025-11-08 Sat 21:15]--[2025-11-08 Sat 22:15] => 1:00
+:END:
