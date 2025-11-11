@@ -1,0 +1,26 @@
+* Portfolio
+
+I need a new portfolio website.
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2025-11-10 Mon 22:08]
+| Headline               | Time   |      |
+|------------------------+--------+------|
+| *Total time*           | *7:00* |      |
+|------------------------+--------+------|
+| Portfolio              | 7:00   |      |
+| \_  Setup Hugo and AWS |        | 3:00 |
+| \_  Setup portfolio    |        | 4:00 |
+#+END:
+
+
+** TODO Setup Hugo and AWS
+:LOGBOOK:
+CLOCK: [2025-11-01 Sat 20:00]--[2025-11-01 Sat 23:00] =>  3:00
+:END:
+
+** TODO Setup portfolio
+:LOGBOOK:
+CLOCK: [2025-11-09 Sun 20:00]--[2025-11-09 Sun 22:00] =>  2:00
+CLOCK: [2025-11-10 Mon 20:00]--[2025-11-10 Mon 22:00] =>  2:00
+:END:
