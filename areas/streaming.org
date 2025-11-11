@@ -30,3 +30,5 @@ CLOSED: [2025-11-08 Sat 22:53]
 
 ** TODO toolkit-theme-toggle
 *** TODO Allow for more files open
+
+** TODO system monitoring theme

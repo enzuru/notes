@@ -1,6 +1,6 @@
 * Portfolio
 
-I need a new portfolio website.
+Create porfolio website and standardize brand.
 
 #+BEGIN: clocktable :scope subtree :maxlevel 2
 #+CAPTION: Clock summary at [2025-11-10 Mon 22:08]
@@ -14,13 +14,21 @@ I need a new portfolio website.
 #+END:
 
 
-** TODO Setup Hugo and AWS
+** DONE Setup Hugo and AWS
+CLOSED: [2025-11-01 Sat 23:00]
 :LOGBOOK:
 CLOCK: [2025-11-01 Sat 20:00]--[2025-11-01 Sat 23:00] =>  3:00
 :END:
 
-** TODO Setup portfolio
+** DONE Setup portfolio
+CLOSED: [2025-11-10 Mon 22:00]
 :LOGBOOK:
 CLOCK: [2025-11-09 Sun 20:00]--[2025-11-09 Sun 22:00] =>  2:00
 CLOCK: [2025-11-10 Mon 20:00]--[2025-11-10 Mon 22:00] =>  2:00
+:END:
+
+** DONE Setup consistent brand
+CLOSED: [2025-11-11 Tue 12:30]
+:LOGBOOK:
+CLOCK: [2025-11-11 Tue 10:30]--[2025-11-11 Tue 12:30] =>  0:00
 :END:
