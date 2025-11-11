@@ -3,15 +3,15 @@
 Create porfolio website and standardize brand.
 
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2025-11-11 Tue 12:56]
-| Headline                   | Time   |      |
-|----------------------------+--------+------|
-| *Total time*               | *9:25* |      |
-|----------------------------+--------+------|
-| Portfolio                  | 9:25   |      |
-| \_  Setup Hugo and AWS     |        | 3:00 |
-| \_  Setup portfolio        |        | 4:00 |
-| \_  Setup consistent brand |        | 2:25 |
+#+CAPTION: Clock summary at [2025-11-11 Tue 13:32]
+| Headline                   | Time    |      |
+|----------------------------+---------+------|
+| *Total time*               | *10:00* |      |
+|----------------------------+---------+------|
+| Portfolio                  | 10:00   |      |
+| \_  Setup Hugo and AWS     |         | 3:00 |
+| \_  Setup portfolio        |         | 4:00 |
+| \_  Setup consistent brand |         | 3:00 |
 #+END:
 
 ** DONE Setup Hugo and AWS
@@ -30,5 +30,5 @@ CLOCK: [2025-11-10 Mon 20:00]--[2025-11-10 Mon 22:00] =>  2:00
 ** DONE Setup consistent brand
 CLOSED: [2025-11-11 Tue 12:30]
 :LOGBOOK:
-CLOCK: [2025-11-11 Tue 10:30]--[2025-11-11 Tue 12:55] =>  2:25
+CLOCK: [2025-11-11 Tue 10:30]--[2025-11-11 Tue 13:30] =>  3:00
 :END:
