@@ -1,4 +1,4 @@
-* S3 Private
+* GNOME S3                                                            :gnome:
 
 Write Terraform to create a private S3 bucket for GNOME.
 

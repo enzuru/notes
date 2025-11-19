@@ -1,7 +1,7 @@
 * Linux kernel
 
 ** Projects
-*** [[../projects/magic-trackpad-battery.org][Apple Magic Trackpad battery reporting]]
+*** [[../projects/kernel-magic-trackpad-battery.org][Apple Magic Trackpad battery reporting]]
 
 ** Patching
 To patch the Linux kernel with your changes already staged:

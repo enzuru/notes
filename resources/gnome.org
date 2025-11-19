@@ -1,10 +1,10 @@
 * GNOME
 
 ** Apps
-*** [[../projects/joseki.org][Joseki]]
+*** [[../projects/gnome-joseki.org][Joseki]]
 
 ** Infrastructure
-*** [[../archive/gnome-s3-private.org][s3-private]]
+*** [[../archive/gnome-s3.org][S3]]
 
 ** Skills
 *** Product management

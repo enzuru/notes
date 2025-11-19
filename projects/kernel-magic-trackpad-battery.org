@@ -1,4 +1,4 @@
-* Magic Trackpad battery reporting
+* Magic Trackpad battery reporting :kernel:
 
 Get Apple's Magic Trackpad battery life to report correctly.
 

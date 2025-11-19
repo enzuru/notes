@@ -1,8 +1,8 @@
 * Nix
 
 ** Projects
-*** [[../projects/port-manuals-to-nix.org][Port Manuals]]
-*** [[../projects/port-workbench-to-nix.org][Port Workbench]]
+*** [[../projects/nix-port-manuals.org][Port Manuals]]
+*** [[../projects/nix-port-workbench.org][Port Workbench]]
 
 ** Notes
 *** benreesman

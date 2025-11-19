@@ -1,0 +1,17 @@
+* Blender donut :blender:
+
+Learning to model a donut in Blender
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2025-11-19 Wed 13:43]
+| Headline      | Time   |
+|---------------+--------|
+| *Total time*  | *0:50* |
+|---------------+--------|
+| Blender donut | 0:50   |
+#+END:
+
+:LOGBOOK:
+CLOCK: [2025-11-17 Mon 19:00]--[2025-11-17 Mon 19:30] =>  0:30
+CLOCK: [2025-11-18 Tue 14:10]--[2025-11-18 Tue 14:30] =>  0:20
+:END:

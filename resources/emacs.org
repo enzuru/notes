@@ -1,7 +1,53 @@
 * GNU Emacs
 
 ** Areas
-*** [[../areas/lispy.org][Lispy]]
+*** [[../areas/emacs-lispy.org][Lispy]]
 
 ** Projects
 *** [[../projects/emacs-dark-mode.org][Dark mode]]
+
+** Documentation
+*** Cider
+#+BEGIN_SRC emacs-lisp
+  (info "cider")
+#+END_SRC
+*** Common Lisp emulation
+#+BEGIN_SRC emacs-lisp
+  (info "cl")
+#+END_SRC
+*** Emacs
+#+BEGIN_SRC emacs-lisp
+  (info "emacs")
+#+END_SRC
+*** Emacs Lisp
+#+BEGIN_SRC emacs-lisp
+  (info "emacs lisp")
+#+END_SRC
+*** EIEIO
+#+BEGIN_SRC emacs-lisp
+  (info "EIEIO")
+#+END_SRC
+*** Eshell
+#+BEGIN_SRC emacs-lisp
+  (info "Eshell")
+#+END_SRC
+*** Geiser
+#+BEGIN_SRC emacs-lisp
+  (info "Geiser")
+#+END_SRC
+*** Gnus
+#+BEGIN_SRC emacs-lisp
+  (info "Gnus")
+#+END_SRC
+*** Hyperbole
+#+BEGIN_SRC emacs-lisp
+  (info "Hyperbole")
+#+END_SRC
+*** Sly
+#+BEGIN_SRC emacs-lisp
+  (info "SLY")
+#+END_SRC
+*** org-mode
+#+BEGIN_SRC emacs-lisp
+  (info "Org")
+#+END_SRC

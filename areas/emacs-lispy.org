@@ -1,4 +1,4 @@
-* Lispy
+* Lispy :emacs:
 
 #+BEGIN: clocktable :scope subtree :maxlevel 2
 #+CAPTION: Clock summary at [2025-11-04 Tue 20:54]

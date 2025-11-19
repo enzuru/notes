@@ -1,4 +1,4 @@
-* Joseki
+* Joseki :gnome:
 
 ** Single player
 *** DONE Remove tests
