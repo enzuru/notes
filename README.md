@@ -9,5 +9,6 @@ As per the PARA method, this repo has:
 - `resources`: top-level resources (e.g., Emacs)
 - `areas`: long-running areas of focus (e.g., Emacs packages that I maintain)
 - `projects`: short-term projects with definite ends (e.g., adding toolkit theming to Emacs)
+- `archive`: any of the above that is no longer relevant
 
 I have made the repository public so that people can track my work, as well as learn how to use org-mode.
