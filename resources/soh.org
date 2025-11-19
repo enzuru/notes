@@ -1,5 +1,0 @@
-* Ship of Harkinian
-
-** Projects
-*** [[../archive/soh-fix-nixos.org][Fix NixOS build]]
-*** Write cool feature

@@ -1,0 +1,7 @@
+* Zelda
+
+My work on libre Zelda ports.
+
+** Projects
+*** [[../archive/zelda-fix-nix.org][Fix Nix compilation]]
+*** Write cool feature

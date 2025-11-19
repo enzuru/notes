@@ -1,0 +1,26 @@
+* Ship of Harkinian Nix compile fixes :soh:                             :nix:
+
+Ensure Ship of Harkinian can compile on Nix.
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2025-11-19 Wed 14:30]
+| Headline                               | Time   |      |
+|----------------------------------------+--------+------|
+| *Total time*                           | *3:27* |      |
+|----------------------------------------+--------+------|
+| Ship of Harkinian Nix compile fixes... | 3:27   |      |
+| \_  Build on Nix                       |        | 1:42 |
+| \_  Update CI                          |        | 1:45 |
+#+END:
+
+
+** DONE Build on Nix
+CLOSED: [2025-09-03 Wed 21:42]
+:LOGBOOK:
+CLOCK: [2025-09-03 Wed 20:00]--[2025-09-03 Wed 21:42] =>  1:42
+:END:
+
+** TODO Update CI
+:LOGBOOK:
+CLOCK: [2025-11-02 Sun 18:10]--[2025-11-02 Sun 19:55] => 1:45
+:END:
