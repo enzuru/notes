@@ -1,13 +1,13 @@
 * Portuguese
 
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2025-11-02 Sun 20:18]
+#+CAPTION: Clock summary at [2025-11-18 Tue 20:55]
 | Headline     | Time    |       |
 |--------------+---------+-------|
-| *Total time* | *15:15* |       |
+| *Total time* | *18:15* |       |
 |--------------+---------+-------|
-| Portuguese   | 15:15   |       |
-| \_  A1       |         | 15:15 |
+| Portuguese   | 18:15   |       |
+| \_  A1       |         | 18:15 |
 #+END:
 
 ** Timelines
@@ -19,6 +19,9 @@
 ** A1
 *** Flashcards
 :LOGBOOK:
+CLOCK: [2025-11-16 Sun 19:00]--[2025-11-16 Sun 19:30] =>  0:30
+CLOCK: [2025-11-17 Mon 19:00]--[2025-11-17 Mon 19:15] =>  0:15
+CLOCK: [2025-11-18 Tue 19:00]--[2025-11-18 Tue 19:15] =>  0:15
 CLOCK: [2025-11-05 Wed 19:00]--[2025-11-05 Wed 20:00] =>  1:00
 CLOCK: [2025-11-04 Tue 19:00]--[2025-11-04 Tue 20:00] =>  1:00
 CLOCK: [2025-10-31 Fri 19:00]--[2025-10-31 Fri 20:00] =>  1:00
