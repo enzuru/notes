@@ -3,20 +3,24 @@
 Restore the stokes API to Blender: [[https://projects.blender.org/blender/blender/issues/147963][Issue #147693]]
 
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2025-11-19 Wed 13:45]
-| Headline            | Time   |      |
-|---------------------+--------+------|
-| *Total time*        | *2:09* |      |
-|---------------------+--------+------|
-| Blender Strokes API | 2:09   |      |
-| \_  Compile         |        | 2:09 |
+#+CAPTION: Clock summary at [2025-11-20 Thu 22:19]
+| Headline               | Time   |      |
+|------------------------+--------+------|
+| *Total time*           | *4:32* |      |
+|------------------------+--------+------|
+| Blender Strokes API    | 4:32   |      |
+| \_  Compile            |        | 2:09 |
+| \_  Restore stroke API |        | 2:23 |
 #+END:
 
-** Compile
+** DONE Compile
+CLOSED: [2025-11-18 Tue 14:09]
 :LOGBOOK:
 CLOCK: [2025-11-18 Tue 12:00]--[2025-11-18 Tue 14:09] =>  2:09
 :END:
 
-** Restore stroke API
+** TODO Restore stroke API
 :LOGBOOK:
+CLOCK: [2025-11-20 Thu 21:11]--[2025-11-20 Thu 22:19] =>  1:08
+CLOCK: [2025-11-19 Wed 20:53]--[2025-11-19 Wed 22:08] =>  1:15
 :END:
