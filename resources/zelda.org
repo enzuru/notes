@@ -2,6 +2,16 @@
 
 My work on libre Zelda ports.
 
+#+BEGIN: clocktable :scope (lambda () (enzuru-org-files-by-tag "zelda")) :maxlevel 1
+#+CAPTION: Clock summary at [2025-11-21 Fri 23:17]
+| File              | Headline                               | Time   |
+|-------------------+----------------------------------------+--------|
+|                   | ALL *Total time*                       | *3:27* |
+|-------------------+----------------------------------------+--------|
+| zelda-fix-nix.org | *File time*                            | *3:27* |
+|                   | Ship of Harkinian Nix compile fixes... | 3:27   |
+#+END:
+
 ** Projects
 *** [[../archive/zelda-fix-nix.org][Fix Nix compilation]]
 *** Write cool feature

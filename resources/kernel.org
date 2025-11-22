@@ -1,5 +1,17 @@
 * Linux kernel
 
+Improving the Linux kernel.
+
+#+BEGIN: clocktable :scope (lambda () (enzuru-org-files-by-tag "kernel")) :maxlevel 1
+#+CAPTION: Clock summary at [2025-11-21 Fri 23:19]
+| File                              | Headline                         | Time   |
+|-----------------------------------+----------------------------------+--------|
+|                                   | ALL *Total time*                 | *2:11* |
+|-----------------------------------+----------------------------------+--------|
+| kernel-magic-trackpad-battery.org | *File time*                      | *2:11* |
+|                                   | Magic Trackpad battery reporting | 2:11   |
+#+END:
+
 ** Projects
 *** [[../projects/kernel-magic-trackpad-battery.org][Apple Magic Trackpad battery reporting]]
 

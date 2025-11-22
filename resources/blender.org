@@ -2,6 +2,19 @@
 
 Learning to model in and contribute code to Blender.
 
+#+BEGIN: clocktable :scope (lambda () (enzuru-org-files-by-tag "blender")) :maxlevel 1
+#+CAPTION: Clock summary at [2025-11-21 Fri 23:16]
+| File                    | Headline            | Time   |
+|-------------------------+---------------------+--------|
+|                         | ALL *Total time*    | *7:26* |
+|-------------------------+---------------------+--------|
+| blender-donut.org       | *File time*         | *1:32* |
+|                         | Blender donut       | 1:32   |
+|-------------------------+---------------------+--------|
+| blender-strokes-api.org | *File time*         | *5:54* |
+|                         | Blender Strokes API | 5:54   |
+#+END:
+
 ** Projects
 *** Modeling
 **** [[../projects/blender-donut.org][Donut]]

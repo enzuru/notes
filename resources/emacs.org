@@ -1,5 +1,20 @@
 * GNU Emacs
 
+Contributions to Emacs and the Emacs ecosystem.
+
+#+BEGIN: clocktable :scope (lambda () (enzuru-org-files-by-tag "emacs")) :maxlevel 1
+#+CAPTION: Clock summary at [2025-11-21 Fri 23:16]
+| File                | Headline         | Time   |
+|---------------------+------------------+--------|
+|                     | ALL *Total time* | *9:47* |
+|---------------------+------------------+--------|
+| emacs-lispy.org     | *File time*      | *1:23* |
+|                     | Lispy            | 1:23   |
+|---------------------+------------------+--------|
+| emacs-dark-mode.org | *File time*      | *8:24* |
+|                     | Emacs dark mode  | 8:24   |
+#+END:
+
 ** Areas
 *** [[../areas/emacs-lispy.org][Lispy]]
 
