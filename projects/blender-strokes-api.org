@@ -3,14 +3,15 @@
 Restore the stokes API to Blender: [[https://projects.blender.org/blender/blender/issues/147963][Issue #147693]]
 
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2025-11-20 Thu 22:19]
-| Headline               | Time   |      |
-|------------------------+--------+------|
-| *Total time*           | *4:32* |      |
-|------------------------+--------+------|
-| Blender Strokes API    | 4:32   |      |
-| \_  Compile            |        | 2:09 |
-| \_  Restore stroke API |        | 2:23 |
+#+CAPTION: Clock summary at [2025-11-21 Fri 22:59]
+| Headline                      | Time   |      |
+|-------------------------------+--------+------|
+| *Total time*                  | *5:54* |      |
+|-------------------------------+--------+------|
+| Blender Strokes API           | 5:54   |      |
+| \_  Compile                   |        | 2:09 |
+| \_  Restore stroke API        |        | 2:23 |
+| \_  Get existing tests to run |        | 1:22 |
 #+END:
 
 ** DONE Compile
@@ -19,8 +20,17 @@ CLOSED: [2025-11-18 Tue 14:09]
 CLOCK: [2025-11-18 Tue 12:00]--[2025-11-18 Tue 14:09] =>  2:09
 :END:
 
-** TODO Restore stroke API
+** DONE Restore stroke API
+CLOSED: [2025-11-20 Thu 22:19]
 :LOGBOOK:
 CLOCK: [2025-11-20 Thu 21:11]--[2025-11-20 Thu 22:19] =>  1:08
 CLOCK: [2025-11-19 Wed 20:53]--[2025-11-19 Wed 22:08] =>  1:15
 :END:
+
+** DONE Get existing tests to run
+CLOSED: [2025-11-21 Fri 22:58]
+:LOGBOOK:
+CLOCK: [2025-11-21 Fri 21:35]--[2025-11-21 Fri 22:57] =>  1:22
+:END:
+
+** TODO Add tests for new code
