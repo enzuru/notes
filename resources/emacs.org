@@ -3,7 +3,7 @@
 Contributions to Emacs and the Emacs ecosystem.
 
 #+BEGIN: clocktable :scope (lambda () (enzuru-org-files-by-tag "emacs")) :maxlevel 1
-#+CAPTION: Clock summary at [2025-11-21 Fri 23:16]
+#+CAPTION: Clock summary at [2026-02-11 Wed 13:18]
 | File                | Headline         | Time   |
 |---------------------+------------------+--------|
 |                     | ALL *Total time* | *9:47* |
@@ -14,6 +14,11 @@ Contributions to Emacs and the Emacs ecosystem.
 | emacs-dark-mode.org | *File time*      | *8:24* |
 |                     | Emacs dark mode  | 8:24   |
 #+END:
+
+** To do
+*** TODO Cleanup config
+*** TODO Switch to Nix unstable package
+*** TODO Create enable-language
 
 ** Areas
 *** [[../areas/emacs-lispy.org][Lispy]]
