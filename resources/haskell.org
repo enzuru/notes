@@ -1,0 +1,7 @@
+* Haskell
+
+** Tooling for desktop formats
+a linter/formatter/language server for Blueprint markup, GSettings schemas, .desktop files, or Flatpak manifests. Parsing and validation is where Haskell absolutely shines, and GNOME’s tooling in these areas is thin.
+
+** A static analyzer for GObject-C patterns
+(ref-counting mistakes, missing g_autoptr, signal signature mismatches) — ambitious, but exactly the kind of problem Haskell people build.
