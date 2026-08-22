@@ -1,0 +1,21 @@
+* GNU Cellar :gnome:
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2026-08-21 Fri 23:50]
+| Headline     | Time   |      |
+|--------------+--------+------|
+| *Total time* | *3:00* |      |
+|--------------+--------+------|
+| GNU Cellar   | 3:00   |      |
+| \_  MVP      |        | 3:00 |
+#+END:
+
+** DONE MVP
+CLOSED: [2025-10-21 Tue 16:55]
+:LOGBOOK:
+CLOCK: [2025-10-21 Tue 09:00]--[2025-10-21 Tue 12:00] =>  3:00
+:END:
+
+** TODO External editor support
+** TODO Tab support
+** TODO Multiple spreadsheets support
