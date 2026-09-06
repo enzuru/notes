@@ -1,13 +1,15 @@
 * GNU Cellar :gnome:
 
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2026-08-21 Fri 23:50]
-| Headline     | Time   |      |
-|--------------+--------+------|
-| *Total time* | *3:00* |      |
-|--------------+--------+------|
-| GNU Cellar   | 3:00   |      |
-| \_  MVP      |        | 3:00 |
+#+CAPTION: Clock summary at [2026-09-05 Sat 21:54]
+| Headline                     | Time    |      |
+|------------------------------+---------+------|
+| *Total time*                 | *13:00* |      |
+|------------------------------+---------+------|
+| GNU Cellar                   | 13:00   |      |
+| \_  MVP                      |         | 3:00 |
+| \_  External editor supports |         | 4:00 |
+| \_  Refactor to Haskell      |         | 6:00 |
 #+END:
 
 ** DONE MVP
@@ -15,7 +17,20 @@ CLOSED: [2025-10-21 Tue 16:55]
 :LOGBOOK:
 CLOCK: [2025-10-21 Tue 09:00]--[2025-10-21 Tue 12:00] =>  3:00
 :END:
-
-** TODO External editor support
-** TODO Tab support
-** TODO Multiple spreadsheets support
+** DONE External editor supports
+CLOSED: [2026-09-05 Sat 21:52]
+:LOGBOOK:
+CLOCK: [2026-08-22 Sat 11:00]--[2026-08-22 Sat 15:00] =>  4:00
+:END:
+** DONE Tabs support
+CLOSED: [2026-09-05 Sat 21:52]
+** DONE Multiple spreadsheets support
+CLOSED: [2026-09-05 Sat 21:52]
+** DONE Refactor to Haskell
+CLOSED: [2026-09-05 Sat 21:53]
+:LOGBOOK:
+CLOCK: [2026-09-05 Sat 16:00]--[2026-09-05 Sat 22:00]  =>  6:00
+:END:
+** TODO Make editing cells quicker
+** TODO Let spreadsheets reference each other
+** TODO Undo functionality

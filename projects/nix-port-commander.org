@@ -1,10 +1,17 @@
 * Port Commander to Nix                                               :nix:
 
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2026-08-21 Fri 23:58]
-| Headline     | Time   |
-|--------------+--------|
-| *Total time* | *0:00* |
+#+CAPTION: Clock summary at [2026-08-22 Sat 22:36]
+| Headline              | Time   |      |
+|-----------------------+--------+------|
+| *Total time*          | *4:00* |      |
+|-----------------------+--------+------|
+| Port Commander to Nix | 4:00   |      |
+| \_  Port commander    |        | 4:00 |
 #+END:
 
 ** TODO Port commander
+:LOGBOOK:
+CLOCK: [2026-08-22 Sat 22:30]
+CLOCK: [2026-08-22 Sat 11:00]--[2026-08-22 Sat 15:00] =>  4:00
+:END:
