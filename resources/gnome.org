@@ -3,18 +3,18 @@
 Contributions to GNOME and the GNOME ecosystem.
 
 #+BEGIN: clocktable :scope (lambda () (enzuru-org-files-by-tag "gnome")) :maxlevel 1
-#+CAPTION: Clock summary at [2026-09-05 Sat 21:59]
-| File             | Headline         | Time    |
-|------------------+------------------+---------|
-|                  | ALL *Total time* | *21:00* |
-|------------------+------------------+---------|
-| gnome-s3.org     | *File time*      | *8:00*  |
-|                  | GNOME S3         | 8:00    |
-|------------------+------------------+---------|
-| gnome-cellar.org | *File time*      | *13:00* |
-|                  | GNU Cellar       | 13:00   |
-|------------------+------------------+---------|
-| gnome-joseki.org | *File time*      | *0:00*  |
+#+CAPTION: Clock summary at [2026-09-06 Sun 19:26]
+| File             | Headline         | Time      |
+|------------------+------------------+-----------|
+|                  | ALL *Total time* | *1d 7:00* |
+|------------------+------------------+-----------|
+| gnome-s3.org     | *File time*      | *8:00*    |
+|                  | GNOME S3         | 8:00      |
+|------------------+------------------+-----------|
+| gnome-cellar.org | *File time*      | *23:00*   |
+|                  | GNU Cellar       | 23:00     |
+|------------------+------------------+-----------|
+| gnome-joseki.org | *File time*      | *0:00*    |
 #+END:
 
 ** Apps

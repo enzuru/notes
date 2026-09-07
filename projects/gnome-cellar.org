@@ -1,15 +1,16 @@
 * GNU Cellar :gnome:
 
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2026-09-05 Sat 21:54]
-| Headline                     | Time    |      |
-|------------------------------+---------+------|
-| *Total time*                 | *13:00* |      |
-|------------------------------+---------+------|
-| GNU Cellar                   | 13:00   |      |
-| \_  MVP                      |         | 3:00 |
-| \_  External editor supports |         | 4:00 |
-| \_  Refactor to Haskell      |         | 6:00 |
+#+CAPTION: Clock summary at [2026-09-06 Sun 19:09]
+| Headline                                  | Time    |       |
+|-------------------------------------------+---------+-------|
+| *Total time*                              | *23:00* |       |
+|-------------------------------------------+---------+-------|
+| GNU Cellar                                | 23:00   |       |
+| \_  MVP                                   |         |  3:00 |
+| \_  External editor supports              |         |  4:00 |
+| \_  Refactor to Haskell                   |         |  6:00 |
+| \_  Let spreadsheets reference each other |         | 10:00 |
 #+END:
 
 ** DONE MVP
@@ -31,6 +32,16 @@ CLOSED: [2026-09-05 Sat 21:53]
 :LOGBOOK:
 CLOCK: [2026-09-05 Sat 16:00]--[2026-09-05 Sat 22:00]  =>  6:00
 :END:
+** DONE Let spreadsheets reference each other
+CLOSED: [2026-09-06 Sun 19:09]
+:LOGBOOK:
+CLOCK: [2026-09-06 Sun 10:00]--[2026-09-06 Sun 20:00] => 10:00
+:END:
+** TODO Replace s-expressions with something better supported
 ** TODO Make editing cells quicker
-** TODO Let spreadsheets reference each other
 ** TODO Undo functionality
+** TODO Recently opened projects
+
+* Anti-features
+** No compatibility with any other spreadsheet application
+** No Windows or macOS support
