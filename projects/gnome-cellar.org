@@ -1,12 +1,12 @@
 * GNU Cellar :gnome:
 
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2026-09-13 Sun 10:02]
+#+CAPTION: Clock summary at [2026-09-17 Thu 18:34]
 | Headline                                  | Time       |       |
 |-------------------------------------------+------------+-------|
-| *Total time*                              | *1d 14:00* |       |
+| *Total time*                              | *1d 20:14* |       |
 |-------------------------------------------+------------+-------|
-| GNU Cellar                                | 1d 14:00   |       |
+| GNU Cellar                                | 1d 20:14   |       |
 | \_  MVP                                   |            |  3:00 |
 | \_  External editor supports              |            |  4:00 |
 | \_  Refactor to Haskell                   |            |  6:00 |
@@ -14,6 +14,9 @@
 | \_  Recently opened projects              |            |  0:37 |
 | \_  Test coverage                         |            |  2:23 |
 | \_  Refactor to be declarative            |            | 12:00 |
+| \_  Rollout more Haskell features         |            |  1:55 |
+| \_  Add async                             |            |  2:37 |
+| \_  Select to add formulas                |            |  1:42 |
 #+END:
 
 ** DONE MVP
@@ -40,9 +43,6 @@ CLOSED: [2026-09-06 Sun 19:09]
 :LOGBOOK:
 CLOCK: [2026-09-06 Sun 10:00]--[2026-09-06 Sun 20:00] => 10:00
 :END:
-** TODO Rework IPC
-** TODO Make editing cells quicker
-** TODO Undo functionality
 ** DONE Recently opened projects
 CLOSED: [2026-09-07 Mon 16:37]
 :LOGBOOK:
@@ -58,7 +58,31 @@ CLOSED: [2026-09-13 Sun 10:02]
 :LOGBOOK:
 CLOCK: [2026-09-12 Sat 10:00]--[2026-09-12 Sat 22:00] => 12:00
 :END:
+** DONE Rollout more Haskell features
+CLOSED: [2026-09-13 Sun 11:55]
+:LOGBOOK:
+CLOCK: [2026-09-13 Sun 10:00]--[2026-09-13 Sun 11:55] =>  1:55
+:END:
+** DONE Add async
+CLOSED: [2026-09-17 Thu 16:37]
+:LOGBOOK:
+CLOCK: [2026-09-17 Thu 14:00]--[2026-09-17 Thu 16:37] =>  2:37
+:END:
+** DONE Select to add formulas
+CLOSED: [2026-09-17 Thu 18:34]
+:LOGBOOK:
+CLOCK: [2026-09-17 Thu 16:52]--[2026-09-17 Thu 18:34] =>  1:42
+:END:
+** TODO Excise Lisp into its own library
+** TODO Add GUI elements like dropdowns
+** TODO What to do with dragged tabs?
+** TODO Make editing cells quicker
+** TODO Undo functionality
+** TODO Cell date/number formatting
 
-* Anti-features
-** No compatibility with any other spreadsheet application
-** No Windows or macOS support
+** Open questions
+*** Single file format?
+
+** Anti-features
+*** No compatibility with any other spreadsheet application
+*** No Windows or macOS support
