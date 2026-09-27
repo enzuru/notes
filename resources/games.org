@@ -1,0 +1,19 @@
+* Games
+
+FLOSS games to contribute to.
+
+** Controller
+*** Link to the Past
+*** Ocarina of Time
+*** Majora's Mask
+*** Super Mario 64
+*** Mario Kart
+
+** Mouse/keyboard
+*** X-Com
+*** Fallout 2
+*** Caesar 3
+*** Diablo
+*** Might and Magic
+*** Heroes of Might and Magic
+*** Morrowind
