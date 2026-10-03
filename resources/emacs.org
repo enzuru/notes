@@ -3,16 +3,19 @@
 Contributions to Emacs and the Emacs ecosystem.
 
 #+BEGIN: clocktable :scope (lambda () (enzuru-org-files-by-tag "emacs")) :maxlevel 1
-#+CAPTION: Clock summary at [2026-02-18 Wed 12:52]
-| File                | Headline         | Time   |
-|---------------------+------------------+--------|
-|                     | ALL *Total time* | *9:47* |
-|---------------------+------------------+--------|
-| emacs-lispy.org     | *File time*      | *1:23* |
-|                     | Lispy            | 1:23   |
-|---------------------+------------------+--------|
-| emacs-dark-mode.org | *File time*      | *8:24* |
-|                     | Emacs dark mode  | 8:24   |
+#+CAPTION: Clock summary at [2026-10-02 Fri 22:09]
+| File                | Headline         | Time    |
+|---------------------+------------------+---------|
+|                     | ALL *Total time* | *11:10* |
+|---------------------+------------------+---------|
+| emacs-dark-mode.org | *File time*      | *8:24*  |
+|                     | Emacs dark mode  | 8:24    |
+|---------------------+------------------+---------|
+| emacs-lispy.org     | *File time*      | *1:23*  |
+|                     | Lispy            | 1:23    |
+|---------------------+------------------+---------|
+| emacs-plan9.org     | *File time*      | *1:23*  |
+|                     | plan9.el         | 1:23    |
 #+END:
 
 ** To do
@@ -23,7 +26,7 @@ Contributions to Emacs and the Emacs ecosystem.
 *** [[../areas/emacs-lispy.org][Lispy]]
 
 ** Projects
-*** [[../projects/emacs-dark-mode.org][Dark mode]]
+*** [[../archive/emacs-dark-mode.org][Dark mode]]
 
 ** Documentation
 *** Cider

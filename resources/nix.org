@@ -1,5 +1,12 @@
 * Nix
 
+#+BEGIN: clocktable :scope (lambda () (enzuru-org-files-by-tag "nix")) :maxlevel 1
+#+CAPTION: Clock summary at [2026-10-02 Fri 22:10]
+| File | Headline         | Time   |
+|------+------------------+--------|
+|      | ALL *Total time* | *0:00* |
+#+END:
+
 ** Projects
 *** [[../projects/nix-port-manuals.org][Port Manuals]]
 *** [[../projects/nix-port-workbench.org][Port Workbench]]
