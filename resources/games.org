@@ -2,6 +2,19 @@
 
 FLOSS games to contribute to.
 
+#+BEGIN: clocktable :scope (lambda () (enzuru-org-files-by-tag "game")) :maxlevel 1
+#+CAPTION: Clock summary at [2026-10-02 Fri 22:03]
+| File          | Headline                  | Time   |
+|---------------+---------------------------+--------|
+|               | ALL *Total time*          | *5:42* |
+|---------------+---------------------------+--------|
+| game-soh.org  | *File time*               | *1:42* |
+|               | Ship of Harkinian         | 1:42   |
+|---------------+---------------------------+--------|
+| game-vcmi.org | *File time*               | *4:00* |
+|               | Heroes of Might and Magic | 4:00   |
+#+END:
+
 ** Controller
 *** Link to the Past
 *** Ocarina of Time

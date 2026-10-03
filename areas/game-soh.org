@@ -1,0 +1,19 @@
+* Ship of Harkinian
+
+FLOSS ports of the Zelda N64 games.
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2026-10-02 Fri 22:03]
+| Headline          | Time   |      |
+|-------------------+--------+------|
+| *Total time*      | *1:42* |      |
+|-------------------+--------+------|
+| Ship of Harkinian | 1:42   |      |
+| \_  Build on Nix  |        | 1:42 |
+#+END:
+
+** DONE Build on Nix
+CLOSED: [2025-09-03 Wed 21:42]
+:LOGBOOK:
+CLOCK: [2025-09-03 Wed 20:00]--[2025-09-03 Wed 21:42] =>  1:42
+:END:
